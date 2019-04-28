@@ -6,6 +6,7 @@
     "priceFormat": "<span class=\"usd\">USD</span> {{price}}",
     "delete": "Delete",
     "ticket": "Ticket",
+    "viewMore":"View More",
     "attendedPastEvent": {
         "label": " UDC 2018 attended",
         "checkboxLabel": "Yes"

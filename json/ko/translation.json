@@ -1,0 +1,7 @@
+{
+    "failedToLoadTransRes": "번역 리소스를 가져오는데 실패했습니다.",
+    "language": "한국어",
+    "language3Alpha": "KOR",
+    "dateFormat": "YYYY. MM. DD (ddd)",
+    "priceFormat": "{{price}}<span class=\"won\">원</span>"
+}

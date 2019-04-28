@@ -1,0 +1,7 @@
+{
+    "failedToLoadTransRes": "Failed to load translation resource.",
+    "language": "English",
+    "language3Alpha": "ENG",
+    "dateFormat": "MMM DD (ddd)",
+    "priceFormat": "<span class=\"usd\">USD</span> {{price}}"
+}

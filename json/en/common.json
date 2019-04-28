@@ -1,0 +1,47 @@
+{
+    "failedToLoadTransRes": "Failed to load translation resource.",
+    "language": "English",
+    "language3Alpha": "ENG",
+    "dateFormat": "MMM DD (ddd)",
+    "priceFormat": "<span class=\"usd\">USD</span> {{price}}",
+    "delete": "Delete",
+    "ticket": "Ticket",
+    "attendedPastEvent": {
+        "label": " UDC 2018 attended",
+        "checkboxLabel": "Yes"
+    },
+    "occupation": {
+        "label": "Position",
+        "developer": "Developer",
+        "researcher": "Research institute",
+        "planner": "Technical support",
+        "press": "Public Relation/Media",
+        "education": "Related institution",
+        "etc": "Others",
+        "typeContent": "내용을 기입해 주세요. (영문 문구 필요.)"
+    },
+    "funnel": {
+        "label": "Route",
+        "dunamu": "Ubpit/Dunamu Site",
+        "online_ad": "Upbit SNS Channel/ Ubpit Site",
+        "news": "Publication",
+        "viral": "Recommendation",
+        "community": "Web community",
+        "etc": "Others"
+    },
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "korName": "Korean Name",
+    "selectCountry": "Country",
+    "phoneNumber": "Mobile Phone Number",
+    "countryNumber": "Country Number",
+    "email": "E-mail",
+    "companyKo": "Department Kor",
+    "companyEn": "Department",
+    "position": "Position",
+    "studentCard": "Student Card / Certificate of enrollment Upload",
+    "promotionCode": "Promotion Code",
+    "selectFiles": "Select Files",
+    "deleteFiles": "Delete Files",
+    "selectCountryResidence": "Country of Residence"
+}

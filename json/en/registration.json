@@ -1,0 +1,93 @@
+{
+    "step1": {
+        "title": "1. Choose<br/>a ticket type",
+        "note": {
+            "title": "꼭 알아두세요!",
+            "purchaseNotice": {
+                "title": "티켓 구매 유의사항",
+                "description": [
+                    "컨퍼런스 티켓은 선착순(결제 일시 기준)으로 판매되며 조기 매진될 수 있습니다.",
+                    "할인 등록비 적용을 위하여 마감 기한 전 결제를 완료해주시기 바랍니다.",
+                    "세금계산서 발행이 필요하신 경우 UDC 준비사무국으로 문의주시기 바랍니다.",
+                    "예매하신 티켓은 사전 발송되지 않으며, 당일 현장에서 입장권으로 발급됩니다.",
+                    "참가자는 한 번에 최대 10명까지 등록 가능합니다. 11명 이상 구매를 원하실 경우 추가 티켓 구매를 이용해 주시기 바랍니다.",
+                    "개인 정보 허위 기재 시 등록이 취소될 수 있습니다."
+                ]
+            },
+            "refundPolicy": {
+                "title": "취소/환불 규정",
+                "description": [
+                    "취소 및 환불은 UDC 준비사무국에 이메일로 신청하실 수 있습니다. ",
+                    "행사 운영 준비로 인해 9월 3일(화) 이후 환불 처리는 9월 16일(월)부터 처리됩니다.  (이메일 접수 순)",
+                    "기간 별 환불 규정",
+                    "- 5월 13일 ~ 8월 9일까지(사전등록 마감일) : 100% 환불",
+                    "- 8월 24일 ~ 9월 3일까지(행사 1일 전) : 80% 환불",
+                    "- 9월 4일부터 : 환불 불가",
+                    "당일 취소가 아닌 경우, 결제사에 따라 환불 처리 기간이 다를 수 있습니다. ",
+                    "해당 카드사 영업일 기준으로 2~5일이 지났음에도 취소 및 환불이 되지 않았을 경우에는 해당 카드사에 문의해주시기 바랍니다. "
+                ]
+            }
+        }
+    },
+    "step2": {
+        "title": "2. Conference Policy<br/>Agreement"
+    },
+    "step3": {
+        "title": "3. Enter personal<br/>information",
+        "sameWithBuyer": "Same as the Customer's information.",
+        "noteStudent": "※Please be sure to attach a copy of your student ID card or a certificate indicating  that you are a student.",
+        "note": {
+            "title": "<span>UDC 2019</span> <1>Blind Ticket purchase</1>",
+            "description": [
+                "Please remember your registration e-mail and password as they are required when you modify your registration information.",
+                "Up to 10 participants can be registered at a time.",
+                "We use participant information to issue your Name Tag. If buyer enter other participant’s information instead, please enter the correct information.",
+                "When the payment process is completed, we send a registration confirm mail. Please contact UDC secretariat if you have not received your registration confirm mail.",
+                "UDC Secretariat(E-mail: udc_regi@intercom.co.kr)"
+            ]
+        }
+    },
+    "step4": {
+        "title": "4. Make<br/>a payment"
+    },
+    "step5": {
+        "title": "5. Check purchase<br/>details"
+    },
+    "tickets": {
+        "1": {
+            "title": "BLIND",
+            "description": "블라인드 기간에 등록하시면<br/><1>65% 할인된 가격</1>으로 구매하실 수 있습니다.",
+            "discountPercent": "65%"
+        },
+        "2": {
+            "title": "EARLY BIRD",
+            "description": "<1>50% 할인된 가격</1>으로 <br/>구매하실 수 있습니다."
+        },
+        "3": {
+            "title": "STANDARD",
+            "description": "<1>25% 할인된 가격</1>으로 <br/>구매하실 수 있습니다."
+        },
+        "4": {
+            "title": "STUDENTS",
+            "description": "<1>학생 100명 선착순 75% 할인,</1><br/>학생증 또는 재학증명서 첨부 필수입니다. "
+        },
+        "5": {
+            "title": "ONSITE",
+            "description": "미리 티켓을 구매하지 못한 분은<br/><1>현장에서 티켓을 구매</1>하실 수 있습니다."
+        },
+        "includes": {
+            "title": "티켓포함사항",
+            "description": [
+                "컨퍼런스 전 기간 참가권",
+                "핸즈온 세션(선착순 마감)",
+                "네트워킹 라운지 및  현장 이벤트 참가권",
+                "점심 2회 제공",
+                "커피브레이크 제공",
+                "네트워킹 디너 1회 제공",
+                "무선 인터넷",
+                "등록 기념품",
+                "전시 관람권"
+            ]
+        }
+    }
+}

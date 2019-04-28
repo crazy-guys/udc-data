@@ -8,7 +8,10 @@
         "title": "About UDC 2018",
         "description": "Check out last year’s event and<br/>catch a glimpse of how UDC differs<br/>from other events",
         "attendees": "Attendees",
+        "attendeesCount": "1600",
         "companies": "Companies",
-        "sessions": "Sessions"
+        "companiesCount": "210",
+        "sessions": "Sessions",
+        "sessionsCount": "35"
     }
 }

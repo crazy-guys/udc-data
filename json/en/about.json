@@ -1,8 +1,8 @@
 {
     "feedbacks": [
         {
-            "title": "“An Event that Brings Developers Together”",
-            "title_m": "“An Event that Brings Developers Together”",
+            "title": "“An Event<br/>that Brings Developers Together”",
+            "title_m": "“An Event that Brings<br/>Developers Together”",
             "name": "Dawn Song",
             "company": "(Founder & CEO of Oasis Labs)",
             "description": "“It’s a great event. I think we should organize more events like this where we bring the developers together and really talk about the technology. <br/>It’s a way for the developer community to help everyone better understand cutting edge technology.”",
@@ -10,8 +10,8 @@
             "img": "/v1/data/s3/images/1556450827076_1.png"
         },
         {
-            "title": "“A Great Developer Conference”",
-            "title_m": "“A Great Developer Conference”",
+            "title": "“A Great<br/>Developer Conference”",
+            "title_m": "“A Great<br/>Developer Conference”",
             "name": "Da Hongfei",
             "description": "“It’s great. NEO is a technology platform, so we love to be<br/>at developer conferences, and UDC<br/>is a good one.”",
             "company": "(Founder of NEO)",

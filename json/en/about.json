@@ -1,105 +1,156 @@
 {
     "feedbacks": [
         {
-            "title": "",
-            "description": "",
+            "title": "“An Event that Brings Developers Together”",
+            "title_m": "“An Event that Brings Developers Together”",
+            "name": "Dawn Song",
+            "company": "(Founder & CEO of Oasis Labs)",
+            "description": "“It’s a great event. I think we should organize more events like this where we bring the developers together and really talk about the technology. <br/>It’s a way for the developer community to help everyone better understand cutting edge technology.”",
             "link": "",
             "img": "/v1/data/s3/images/1556450827076_1.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“A Great Developer Conference”",
+            "title_m": "“A Great Developer Conference”",
+            "name": "Da Hongfei",
+            "description": "“It’s great. NEO is a technology platform, so we love to be<br/>at developer conferences, and UDC<br/>is a good one.”",
+            "company": "(Founder of NEO)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827109_2.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“Upbit Developer Conference 2018  Comes to an End Successfull”",
+            "title_m": "“Upbit Developer Conference 2018  Comes to an End Successfull”",
+            "name": "etnews",
+            "description": "‘Upbit Developer Conference (UDC) 2018’, which had Chairman Sirgoo Lee of Dunamu, CEO Lee Sirgoo of Dunamu, and CEO Bill Shihara of Bittrex in attendance, came to an end on the 14th. UDC took place at ICC<br/>(International Convention Center) JEJU<br/>on the 13th and the 14th...<br/>While blockchain events in the past were simply Meetup events where companies introduced their coins, UDC 2018 centered on developers that introduced technical skills and practicality.",
+            "company": "",
             "link": "",
             "img": "/v1/data/s3/images/1556450826984_3.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“A Conference Actually Focused  on Blockchain Infrastructure”",
+            "title_m": "“A Conference Actually Focused  on Blockchain Infrastructure”",
+            "name": "Travis Moore",
+            "description": "“Unlike a lot of traditional<br/>crypto conferences, UDC is actually focused on blockchain infrastructure which is something I think<br/>we really need.”",
+            "company": "(Co-founder & CTO of Everipedia)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827092_4.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“Great Chance to Meet  the Korean Blockchain Community”",
+            "title_m": "“Great Chance to Meet  the Korean Blockchain Community”",
+            "name": "Benjamin Bollen",
+            "description": "“It was the first time I’ve had<br/>a chance to meet the Korean blockchain community and I loved it. Also, the organization was splendid and I was blown away.”",
+            "company": "(Chief Blockchain Scientist of OST)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827098_5.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“A Venue<br/>for Stimulating Interactions”",
+            "title_m": "“A Venue<br/>for Stimulating Interactions”",
+            "name": "Carl Youngblood",
+            "description": "“It was amazing. The interactions I had with the attendees at UDC 2018 were really stimulating”",
+            "company": "(CTO of Mainframe)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827143_6.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“A Very Well-organized<br/>Event”",
+            "title_m": "“A Very<br/>Well-organized Event”",
+            "name": "Edward Greve",
+            "description": "“It was great. A lot of interesting people to talk with, and also UDC was very<br/>organized and everything was done<br/>really well”",
+            "company": "(CTO of IOTA)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827076_7.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“High-quality Presenters<br/>and Many Attendees”",
+            "title_m": "“High-quality Presenters<br/>and Many Attendees”",
+            "name": "Qi Zhou",
+            "description": "“It was very well-organized, and<br/>the presenters were very high quality. There were a lot of attendees, so I was very happy to be there and present<br/>our technology.”",
+            "company": "(CEO of QuarkChain)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827102_8.png"
         },
         {
-            "title": "",
-            "description": "",
-            "link": "",
+            "title": "“Upbit Developer Conference Opens<br/>in Jeju Island, Dunamu Chairman<br/>Makes Welcome Remarks”",
+            "title_m": "“Upbit Developer Conference Opens<br/>in Jeju Island, Dunamu Chairman<br/>Makes Welcome Remarks”",
+            "name": "Blockt",
+            "description": "South Korea’s Jeju Island was painted red by a global community of blockchain<br/>enthusiasts on Thursday, Sept. 13, as the inaugural Upbit Developer Conference 2018 (UDC 2018) started off with a bang. Founder and Chairman of Dunamu Inc. Chi-Hyung Song took to the podium to... <br/>welcome the attendees. The conference has lined up several major blockchain figures in the industry to address the gathering, including Onchain cofounder Jun Li and Bittrex CEO Bill Shihara, among others.",
+            "company": "",
+            "link": "{url}",
             "img": "/v1/data/s3/images/1556450827022_9.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“Opportunity to Present along<br/>with Globally Renowned Blockchain<br/>Experts”",
+            "title_m": "“Opportunity to Present<br/>along with Globally Renowned<br/>Blockchain Experts”",
+            "name": "Yong-gil Kwon",
+            "description": "“It was an honor to present along<br/>with so many globally renowned blockchain experts. It was truly<br/>rewarding and meaningful<br/>to be able to talk in depth about<br/>the work we’re doing.”",
+            "company": "(CEO of Neoply)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827146_10.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“Incredibly Professional<br/>and Very Well-organized”",
+            "title_m": "“Incredibly Professional<br/>and Very Well-organized”",
+            "name": "Gerard Moroney",
+            "description": "“I was very impressed. The UDC team<br/>was incredibly professional. It was very well-presented and organized and I was very pleased with everything I saw.”",
+            "company": "(Project Manager for IOHK)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827125_11.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“Very Enjoyable”",
+            "title_m": "“Very Enjoyable”",
+            "name": "Benedict Chan",
+            "description": "“It was very enjoyable. Everyone<br/>was trying to see how they can apply<br/>the blockchain and get adoption there.<br/>It was a lot about building,<br/>and I like that a lot.”",
+            "company": "(CTO of BitGo)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827109_12.png"
         },
         {
-            "title": "",
-            "description": "",
-            "link": "",
+            "title": "“UDC 2018 is proof that blockchain<br/>could be the next internet”",
+            "title_m": "“UDC 2018 is proof that blockchain<br/>could be the next internet”",
+            "name": "Joonang Daily",
+            "description": "“Over 700 people gathered in ICC Jeju’s Tamna Hall on the early morning of<br/>the 13th for the two-day Upbit Developer Conference. Blockchain experts from around the world shared a common theme at the conference: the need for an everyday service based on blockchain ...",
+            "company": "",
+            "link": "{url}",
             "img": "/v1/data/s3/images/1556450827063_13.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“A Great Opportunity to Learn<br/>about Dynamic and Fascinating<br/>Blockchain Projects”",
+            "title_m": "“A Great Opportunity to Learn<br/>about Dynamic and Fascinating<br/>Blockchain Projects”",
+            "name": "Heejo Lee",
+            "description": "“UDC was a great opportunity to learn firsthand about a wide variety<br/>of dynamic and fascinating blockchain projects”",
+            "company": "(Professor at Korea University)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827122_14.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“In-depth Presentations<br/>and Audience Questions”",
+            "title_m": "“In-depth Presentations<br/>and Audience Questions”",
+            "name": "Brian Cheong",
+            "description": "“With most of the attendees being developers, both the presentations and audience questions were really in-depth. It was a very productive<br/>conference.”",
+            "company": "(CEO of TTC Protocol)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827445_15.png"
         },
         {
-            "title": "",
-            "description": "",
+            "title": "“Meaningful Discussions on the<br/>Present and Future of Blockchain<br/>Technology”",
+            "title_m": "“Meaningful Discussions<br/>on the Present and Future<br/>of Blockchain Technology”",
+            "name": "Jae-hyun Park",
+            "description": "“A lot of other conferences focus more<br/>on the investment aspect, so to be able come together with other developers<br/>to discuss the present and future<br/>of blockchain technology was truly<br/>meaningful.”",
+            "company": "(CEO of Lambda256)",
             "link": "",
             "img": "/v1/data/s3/images/1556450827471_16.png"
         },
         {
-            "title": "",
+            "title": "“Dunamu Chairman: Developers<br/>are the true foundation of<br/>the blockchain ecosystem”",
+            "title_m": "“Dunamu Chairman: Developers<br/>are the true foundation<br/>of the blockchain ecosystem”",
+            "name": "Jae-hyun Park",
             "description": "",
-            "link": "",
+            "company": "(CEO of Lambda256)",
+            "link": "{url}",
             "img": "/v1/data/s3/images/1556450827098_17.png"
         }
     ]

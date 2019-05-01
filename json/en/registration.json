@@ -94,5 +94,10 @@
                 "전시 관람권"
             ]
         }
+    },
+    "payMethods": {
+        "creditCard": "Credit Cards",
+        "vBank": "Bank",
+        "kakaopay": "Kakao Pay"
     }
 }

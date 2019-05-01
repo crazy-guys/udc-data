@@ -29,7 +29,7 @@
     <p
       style="margin-top:2em;line-height:1.8em;font-size:1.125em;font-weight:500;color: #222222;"
     >
-      <span style="color:#0367d9">홍길동</span>님, 안녕하세요
+      <span style="color:#0367d9">{name}</span>님, 안녕하세요
     </p>
     <p style="margin:0.5em 0 0;line-height:1.8em;color:#666666">
       UDC 2019
@@ -41,7 +41,7 @@
         style="background-color:#f1f6fd;text-align: center;padding:1.325em 0"
       >
         <span style="font-size:1.125em"
-          >티켓번호 <span style="color:#0367d9">UDC0000001</span></span
+          >티켓번호 <span style="color:#0367d9">{ticketno}</span></span
         >
       </div>
       <div
@@ -49,7 +49,7 @@
       >
         <span style="margin-left:2em;color:#999;line-height:70px;">티켓 구매자 (구매 일자)</span>
         <span style="margin-right:2em;color:#222;float:right;line-height:70px;"
-          >홍길동 (2019. 04. 01 18:00:12)</span
+          >{buyer} ({buyat})</span
         >
       </div>
       <div style="display:flex;flex-flow:row;border-top:1px solid #ededed;">
@@ -65,11 +65,11 @@
           <ul style="margin:1.5em 2em;padding:0;display:block;list-style: none">
             <li style="line-height:2em">
               <span style="color:#999999">영문 성명</span>
-              <span style="color:#222222;float:right">English name</span>
+              <span style="color:#222222;float:right">{engname}</span>
             </li>
             <li style="line-height:2em">
               <span style="color:#999999">한글 성명</span>
-              <span style="color:#222222;float:right">홍길동</span>
+              <span style="color:#222222;float:right">{name}</span>
             </li>
             <li style="line-height:2em">
               <span style="color:#999999">국적</span>
@@ -77,19 +77,19 @@
             </li>
             <li style="line-height:2em">
               <span style="color:#999999">핸드폰번호</span>
-              <span style="color:#222222;float:right">010-0000-0000</span>
+              <span style="color:#222222;float:right">{phonenumber}</span>
             </li>
             <li style="line-height:2em">
               <span style="color:#999999">이메일</span>
-              <span style="color:#222222;float:right">abc@ab.com</span>
+              <span style="color:#222222;float:right">{email}</span>
             </li>
             <li style="line-height:2em">
               <span style="color:#999999">국문소속명</span>
-              <span style="color:#222222;float:right">두나무</span>
+              <span style="color:#222222;float:right">{company}</span>
             </li>
             <li style="line-height:2em">
               <span style="color:#999999">영문소속명</span>
-              <span style="color:#222222;float:right">Dunamu</span>
+              <span style="color:#222222;float:right">{engcompany}</span>
             </li>
           </ul>
         </div>

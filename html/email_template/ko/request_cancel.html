@@ -29,7 +29,7 @@ style="width:820px;position:relative;font-family: NanumSquare !important;backgro
     <p
       style="margin-top:2em;line-height:1.8em;font-size:1.125em;font-weight:500;color: #222222;"
     >
-      <span style="color:#0367d9">홍길동</span>님, 안녕하세요
+      <span style="color:#0367d9">{name}</span>님, 안녕하세요
     </p>
     <p style="margin:0.5em 0 0;line-height:1.8em;color:#666666">
       UDC 2019
@@ -50,21 +50,21 @@ style="width:820px;position:relative;font-family: NanumSquare !important;backgro
         style="background-color:#f1f6fd;text-align: center;padding:1.325em 0"
       >
         <span style="font-size:1.125em"
-          >취소 티켓번호 <span style="color:#0367d9">UDC0000001</span></span
+          >취소 티켓번호 <span style="color:#0367d9">{ticketno}</span></span
         >
       </div>
       <ul style="margin:1.5em 2em;padding:0;display:block;list-style: none">
         <li style="line-height:2em">
           <span style="color:#999999">티켓구매자</span>
-          <span style="color:#222222;float:right">홍길동</span>
+          <span style="color:#222222;float:right">{buyer}</span>
         </li>
         <li style="line-height:2em">
           <span style="color:#999999">참가가 성명</span>
-          <span style="color:#222222;float:right">정아무개 (jeong Amugae)</span>
+          <span style="color:#222222;float:right">{name}</span>
         </li>
         <li style="line-height:2em">
           <span style="color:#999999">취소일자</span>
-          <span style="color:#d90000;float:right">2019. 04. 27 18:00:12 </span>
+          <span style="color:#d90000;float:right">{cancelat} </span>
         </li>
       </ul>
     </div>

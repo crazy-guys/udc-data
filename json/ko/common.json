@@ -45,5 +45,6 @@
     "selectFiles": "파일선택",
     "deleteFiles": "파일삭제",
     "selectCountryResidence": "거주 국가",
-    "promotion": "프로모션"
+    "promotion": "프로모션",
+    "payPrice": "결제금액"
 }

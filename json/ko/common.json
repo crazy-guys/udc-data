@@ -44,5 +44,6 @@
     "promotionCode": "프로모션 코드",
     "selectFiles": "파일선택",
     "deleteFiles": "파일삭제",
-    "selectCountryResidence": "거주 국가"
+    "selectCountryResidence": "거주 국가",
+    "promotion": "프로모션"
 }

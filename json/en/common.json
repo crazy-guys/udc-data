@@ -6,7 +6,7 @@
     "priceFormat": "<span class=\"usd\">USD</span> {{price}}",
     "delete": "Delete",
     "ticket": "Ticket",
-    "viewMore":"View More",
+    "viewMore": "View More",
     "attendedPastEvent": {
         "label": " UDC 2018 attended",
         "checkboxLabel": "Yes"
@@ -44,5 +44,6 @@
     "promotionCode": "Promotion Code",
     "selectFiles": "Select Files",
     "deleteFiles": "Delete Files",
-    "selectCountryResidence": "Country of Residence"
+    "selectCountryResidence": "Country of Residence",
+    "promotion": "프로모션"
 }

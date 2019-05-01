@@ -98,7 +98,7 @@
     },
     "payMethods": {
         "creditCard": "신용카드",
-        "vBank": "실시간 계좌이체",
+        "bank": "실시간 계좌이체",
         "kakaopay": "카카오페이"
     }
 }

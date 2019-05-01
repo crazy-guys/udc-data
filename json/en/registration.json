@@ -97,7 +97,7 @@
     },
     "payMethods": {
         "creditCard": "Credit Cards",
-        "vBank": "Bank",
+        "bank": "bank",
         "kakaopay": "Kakao Pay"
     }
 }

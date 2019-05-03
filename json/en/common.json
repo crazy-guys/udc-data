@@ -46,5 +46,6 @@
     "deleteFiles": "Delete Files",
     "selectCountryResidence": "Country of Residence",
     "promotion": "Promotion",
-    "payPrice": "Price"
+    "payPrice": "Price",
+    "loading": "불러오는 중..."
 }

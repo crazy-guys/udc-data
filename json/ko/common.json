@@ -46,5 +46,6 @@
     "deleteFiles": "파일삭제",
     "selectCountryResidence": "거주 국가",
     "promotion": "프로모션",
-    "payPrice": "결제 금액"
+    "payPrice": "결제 금액",
+    "loading": "Loading.."
 }

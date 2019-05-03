@@ -5,5 +5,7 @@
   "video": "Video",
   "registeredAt": "Date",
   "newsAuthor": "Media",
-  "goList": "List"
+  "goList": "List",
+  "openLink": "Open the article",
+  "openAttachment": "Attachment "
 }

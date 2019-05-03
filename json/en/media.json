@@ -3,5 +3,6 @@
   "news": "News",
   "gallery": "Gallery",
   "video": "Video",
-  "registeredAt": "Date"
+  "registeredAt": "Date",
+  "newsAuthor": "Media"
 }

@@ -3,5 +3,6 @@
   "news": "뉴스",
   "gallery": "사진",
   "video": "영상",
-  "registeredAt": "등록일"
+  "registeredAt": "등록일",
+  "newsAuthor": "매체명"
 }

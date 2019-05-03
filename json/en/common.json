@@ -47,5 +47,6 @@
     "selectCountryResidence": "Country of Residence",
     "promotion": "Promotion",
     "payPrice": "Price",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "title": "Title"
 }

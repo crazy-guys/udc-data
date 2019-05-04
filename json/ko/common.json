@@ -44,5 +44,9 @@
     "promotionCode": "프로모션 코드",
     "selectFiles": "파일선택",
     "deleteFiles": "파일삭제",
-    "selectCountryResidence": "거주 국가"
+    "selectCountryResidence": "거주 국가",
+    "not_ready": {
+      "title": "준비중입니다.",
+      "description": "더 나은 서비스를 제공하기 위해 페이지를 준비하는 중입니다.\n알차고 유익한 내용으로 찾아 뵙겠습니다.\n감사합니다."
+    }
 }

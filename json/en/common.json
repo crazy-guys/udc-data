@@ -44,5 +44,9 @@
     "promotionCode": "Promotion Code",
     "selectFiles": "Select Files",
     "deleteFiles": "Delete Files",
-    "selectCountryResidence": "Country of Residence"
+    "selectCountryResidence": "Country of Residence",
+    "not_ready": {
+      "title": "We are currently working on our website!.",
+      "description": "Thank you for visiting.\nWe are currently revamping the official UDC 2019 website.\nStay tuned!"
+    }
 }

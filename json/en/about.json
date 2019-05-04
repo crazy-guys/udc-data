@@ -153,5 +153,75 @@
             "link": "{url}",
             "img": "/api/v1/data/s3/images/1556462893821_17_.png"
         }
-    ]
+    ],
+    "2018": {
+      "infos": [{
+        "key": "일시",
+        "val": "2018년 9월 12일(수) ~ 14일(금) *12일 사전행사"
+      }, {
+        "key": "장소",
+        "val": "제주 국제 컨벤션 센터(ICC JEJU)"
+      }, {
+        "key": "주제",
+        "val": "Proof of Developer"
+      }, {
+        "key": "주최",
+        "val": "두나무㈜"
+      }, {
+        "key": "참가대상",
+        "val": "블록체인 개발자 및 관련 업종 종사자 및 학생 등 약 1,600여명"
+      }, {
+        "key": "공식언어",
+        "val": "한국어, 영어 (영-한 동시통역 제공)"
+      }]
+    },
+    "2019": {
+      "title_1": "Upbit Developer Conference 2019",
+      "title_2": "UDC 2019 OVERVIEW",
+      "infos": [{
+        "key": "Date",
+        "val": "2019년 9월 4일(수) ~ 5일(목)"
+      }, {
+        "key": "Venue",
+        "val": "그랜드 하얏트 인천"
+      }, {
+        "key": "Theme",
+        "val": "Proof of Services"
+      }, {
+        "key": "Organizer",
+        "val": "두나무㈜"
+      }, {
+        "key": "Participants",
+        "val": "개발자, 블록체인 기술에 관심 있는 누구나"
+      }, {
+        "key": "Official\nLanguage",
+        "val": "한국어, 영어 (영-한 동시통역 제공)"
+      }],
+      "texts": [
+        "Welcome to the Upbit Developer Conference!\nUDC is a true developer-centric event where\nparticipants can engage with likeminded developers and share their passion for blockchain technology through the free exchange of ideas.",
+        "Dunamu, the operator of crypto-asset exchange Upbit, hosted the inaugural Upbit Developer\nConference last September in South Korea’s Jeju Island in an effort to foster and grow the blockchain ecosystem. It is one of the first conferences in the world solely dedicated to blockchain development.",
+        "UDC is a place where developers interested in blockchain technology can come together for in-depth discussions on key innovations and global trends.\nIt is where attendees can find inspirations for impactful technological advancements that can evolve into tangible services that prove the merits of blockchain.",
+        "The slogan for last year’s inaugural event was\n‘Proof of Developer.’\nJust as developers provide proof of their work\n on the blockchain, experts from around the world gathered at UDC 2018 to share their blockchain projects with the rest of the ecosystem.\n Being one of the first conferences dedicated entirely to developers, UDC offered a meaningful experience to both the presenters and attendees.",
+        "This year, UDC will feature numerous blockchain services born from the ideas and hard work of\ndevelopers. It will be a terrific opportunity\nto see first-hand how developers are shaping the future through blockchain technology.",
+        "UDC 2019 will bring together developers from around the globe for meaningful exchange of ideas with world-class experts, as well productive networking events and hands-on programs for the next\ngeneration of developers."
+      ],
+      "highlight_msg": "Please join us at Upbit Developer Conference in September 2019 for the largest celebration of blockchain technology and developers.",
+      "concepts": [
+        {
+          "title": "A Communication Platform for Developers",
+          "descriptions": [
+            "· Insight from world-class blockchain developers",
+            "· New technology and trends that matter to developers",
+            "· Numerous events to share and exchange ideas"
+          ]
+        },
+        {
+          "title": "In-depth Exchange of Ideas",
+          "descriptions": [
+            "· An event dedicated to developers",
+            "· Speakers that provide real and applicable insight",
+            "· Diverse formats to allow active exchange of ideas for developers*/"
+          ]
+        }]
+    }
 }

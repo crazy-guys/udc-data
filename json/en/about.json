@@ -155,24 +155,26 @@
         }
     ],
     "2018": {
+      "title_1": "Upbit Developer Conference 2018",
+      "title_2": "UDC 2018 OVERVIEW",
       "infos": [{
-        "key": "일시",
+        "key": "Date",
         "val": "2018년 9월 12일(수) ~ 14일(금) *12일 사전행사"
       }, {
-        "key": "장소",
-        "val": "제주 국제 컨벤션 센터(ICC JEJU)"
+        "key": "Revue",
+        "val": "ICC JEJU"
       }, {
-        "key": "주제",
+        "key": "Theme",
         "val": "Proof of Developer"
       }, {
-        "key": "주최",
-        "val": "두나무㈜"
+        "key": "Organizer",
+        "val": "Dunamu Inc."
       }, {
-        "key": "참가대상",
-        "val": "블록체인 개발자 및 관련 업종 종사자 및 학생 등 약 1,600여명"
+        "key": "Participants",
+        "val": "Blockchain developers, service providers, and enthusiasts"
       }, {
-        "key": "공식언어",
-        "val": "한국어, 영어 (영-한 동시통역 제공)"
+        "key": "Official\nLanguage",
+        "val": "English, Korean (English-Korean simultaneous interpretation will be provided.)"
       }]
     },
     "2019": {
@@ -180,22 +182,22 @@
       "title_2": "UDC 2019 OVERVIEW",
       "infos": [{
         "key": "Date",
-        "val": "2019년 9월 4일(수) ~ 5일(목)"
+        "val": "Sep. 4 (Wed) ~ 5 (Thu), 2019"
       }, {
         "key": "Venue",
-        "val": "그랜드 하얏트 인천"
+        "val": "Grand Hyatt Incheon, Incheon, South Korea"
       }, {
         "key": "Theme",
         "val": "Proof of Services"
       }, {
         "key": "Organizer",
-        "val": "두나무㈜"
+        "val": "Dunamu Inc."
       }, {
         "key": "Participants",
-        "val": "개발자, 블록체인 기술에 관심 있는 누구나"
+        "val": "Blockchain developers, service providers, and enthusiasts"
       }, {
         "key": "Official\nLanguage",
-        "val": "한국어, 영어 (영-한 동시통역 제공)"
+        "val": "English, Korean (English-Korean simultaneous interpretation will be provided.)"
       }],
       "texts": [
         "Welcome to the Upbit Developer Conference!\nUDC is a true developer-centric event where\nparticipants can engage with likeminded developers and share their passion for blockchain technology through the free exchange of ideas.",
@@ -220,7 +222,13 @@
           "descriptions": [
             "· An event dedicated to developers",
             "· Speakers that provide real and applicable insight",
-            "· Diverse formats to allow active exchange of ideas for developers*/"
+            "· Diverse formats to allow active exchange of ideas for developers"
+          ]
+        }, {
+          "title": "Where We Can Get Together",
+          "descriptions": [
+            "· Meet world-class blockchain developers and build a strong network",
+            "· A variety of events to engage with other developers"
           ]
         }]
     }

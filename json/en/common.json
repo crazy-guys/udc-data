@@ -48,5 +48,18 @@
     "promotion": "Promotion",
     "payPrice": "Price",
     "loading": "Loading...",
-    "title": "Title"
+    "title": "Title",
+    "subpageTitles": {
+        "udc2019": "UDC 019",
+        "udc2018": "UDC 2018",
+        "glance": "At a Glance",
+        "detailedProgram": "Detailed program",
+        "venue": "Venue",
+        "transportation": "Transportation",
+        "generalInfo": "General<br/>Information",
+        "notice": "Notice",
+        "news": "News",
+        "gallery": "Gallery",
+        "video": "Video"
+    }
 }

@@ -48,5 +48,17 @@
     "promotion": "프로모션",
     "payPrice": "결제 금액",
     "loading": "Loading..",
-    "title": "제목"
+    "title": "제목",
+    "subpageTitles": {
+        "udc2019": "UDC 019",
+        "udc2018": "UDC 2018",
+        "glance": "전체 프로그램",
+        "detailedProgram": "일자 별 프로그램",
+        "venue": "행사장 안내",
+        "transportation": "오시는 길",
+        "notice": "공지",
+        "news": "뉴스",
+        "gallery": "사진",
+        "video": "영상"
+    }
 }

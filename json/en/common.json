@@ -6,7 +6,7 @@
     "priceFormat": "<span class=\"usd\">USD</span> {{price}}",
     "delete": "Delete",
     "ticket": "Ticket",
-    "viewMore":"View More",
+    "viewMore": "View More",
     "attendedPastEvent": {
         "label": " UDC 2018 attended",
         "checkboxLabel": "Yes"
@@ -45,6 +45,23 @@
     "selectFiles": "Select Files",
     "deleteFiles": "Delete Files",
     "selectCountryResidence": "Country of Residence",
+    "promotion": "Promotion",
+    "payPrice": "Price",
+    "loading": "Loading...",
+    "title": "Title",
+    "subpageTitles": {
+        "udc2019": "UDC 2019",
+        "udc2018": "UDC 2018",
+        "glance": "At a Glance",
+        "detailedProgram": "Detailed program",
+        "venue": "Venue",
+        "transportation": "Transportation",
+        "generalInfo": "General<br/>Information",
+        "notice": "Notice",
+        "news": "News",
+        "gallery": "Gallery",
+        "video": "Video"
+    },
     "not_ready": {
       "title": "We are currently working on our website!.",
       "description": "Thank you for visiting.\nWe are currently revamping the official UDC 2019 website.\nStay tuned!"

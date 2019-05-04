@@ -2,5 +2,10 @@
   "notice": "Notice",
   "news": "News",
   "gallery": "Gallery",
-  "video": "Video"
+  "video": "Video",
+  "registeredAt": "Date",
+  "newsAuthor": "Media",
+  "goList": "List",
+  "openLink": "Open the article",
+  "openAttachment": "Attachment "
 }

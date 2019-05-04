@@ -56,23 +56,28 @@
     "tickets": {
         "1": {
             "title": "BLIND",
+            "name": "Blind",
             "description": "블라인드 기간에 등록하시면<br/><1>65% 할인된 가격</1>으로 구매하실 수 있습니다.",
             "discountPercent": "65%"
         },
         "2": {
             "title": "EARLY BIRD",
+            "name": "Early Bird",
             "description": "<1>50% 할인된 가격</1>으로 <br/>구매하실 수 있습니다."
         },
         "3": {
             "title": "STANDARD",
+            "name": "Standard",
             "description": "<1>25% 할인된 가격</1>으로 <br/>구매하실 수 있습니다."
         },
         "4": {
             "title": "STUDENTS",
+            "name": "Students",
             "description": "<1>학생 100명 선착순 75% 할인,</1><br/>학생증 또는 재학증명서 첨부 필수입니다. "
         },
         "5": {
             "title": "ONSITE",
+            "name": "OnSite",
             "description": "미리 티켓을 구매하지 못한 분은<br/><1>현장에서 티켓을 구매</1>하실 수 있습니다."
         },
         "includes": {
@@ -89,5 +94,10 @@
                 "전시 관람권"
             ]
         }
+    },
+    "payMethods": {
+        "creditCard": "Credit Cards",
+        "bank": "bank",
+        "kakaopay": "Kakao Pay"
     }
 }

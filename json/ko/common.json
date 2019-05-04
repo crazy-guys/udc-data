@@ -34,7 +34,7 @@
     "lastName": "Last Name",
     "korName": "국문 성명",
     "selectCountry": "국적 선택",
-    "phoneNumber": "핸드폰 번호",
+    "phoneNumber": "휴드폰 번호",
     "countryNumber": "국가 번호",
     "email": "이메일",
     "companyKo": "국문 소속명",
@@ -45,6 +45,22 @@
     "selectFiles": "파일선택",
     "deleteFiles": "파일삭제",
     "selectCountryResidence": "거주 국가",
+    "promotion": "프로모션",
+    "payPrice": "결제 금액",
+    "loading": "Loading..",
+    "title": "제목",
+    "subpageTitles": {
+        "udc2019": "UDC 2019",
+        "udc2018": "UDC 2018",
+        "glance": "전체 프로그램",
+        "detailedProgram": "일자 별 프로그램",
+        "venue": "행사장 안내",
+        "transportation": "오시는 길",
+        "notice": "공지",
+        "news": "뉴스",
+        "gallery": "사진",
+        "video": "영상"
+    },
     "not_ready": {
       "title": "준비중입니다.",
       "description": "더 나은 서비스를 제공하기 위해 페이지를 준비하는 중입니다.\n알차고 유익한 내용으로 찾아 뵙겠습니다.\n감사합니다."

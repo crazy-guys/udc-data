@@ -3,6 +3,9 @@
   "news": "뉴스",
   "gallery": "사진",
   "video": "영상",
-  "title": "제목",
-  "registeredAt": "등록일"
+  "registeredAt": "등록일",
+  "newsAuthor": "매체명",
+  "goList": "목록보기",
+  "openLink": "원문 보기",
+  "openAttachment": "첨부파일"
 }

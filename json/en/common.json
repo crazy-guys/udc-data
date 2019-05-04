@@ -64,6 +64,7 @@
     },
     "not_ready": {
       "title": "We are currently working on our website!.",
-      "description": "Thank you for visiting.\nWe are currently revamping the official UDC 2019 website.\nStay tuned!"
+      "description": "Thank you for visiting.\nWe are currently revamping the official UDC 2019 website.\nStay tuned!",
+      "description_m": "Thank you for visiting.\nWe are currently revamping\nthe official UDC 2019 website.\nStay tuned!"
     }
 }

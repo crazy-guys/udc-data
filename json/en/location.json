@@ -4,7 +4,6 @@
   "schedule": "Schedule",
   "departure": "Deparature",
   "arrival": "Arrival",
-
   "venue": {
     "title": "Venue",
     "sub_title": "Grand HYATT",
@@ -69,7 +68,7 @@
         "KRW 9,000 (approx. USD 8)",
         "43 min (from Seoul Station)",
         "https://www.arex.or.kr/main.do",
-        "Incheon International Airport Terminal"1
+        "Incheon International Airport Terminal"
       ]
     }, 
     "sub_title3": "UDC 2019 Shuttle Bus",

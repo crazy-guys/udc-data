@@ -22,7 +22,9 @@
         "key": "팩스",
         "val": "032. 745. 2500"
       }
-    ]
+    ],
+    "go_to_homepage_prefix": "",
+    "go_to_homepage": "홈페이지 바로가기"
   },
   "transportation": {
     "title": "오시는길",

@@ -60,7 +60,7 @@
       "items": [
         "10,000~15,000(원)",
         "70분 (서울역 기준)",
-        "https://www.airportlimousine.co.kr",
+        "https://www.airportlimousine.co.kr/eng/lbr/all/lbr02_2_6000.php",
         "",
         "인천국제공항 제1터미널"
       ]
@@ -75,6 +75,6 @@
         "인천국제공항 제1터미널"
       ]
     },
-    "later_notice": "9월 4일(수)~5일(목), 이틀 간 서울, 판교 지역에서 출발하는 셔틀 버스가 운행될 예정입니다.\n세부 운행 정보는 추후 안내 드리겠습니다."
+    "later_notice": "9월 4일(수)~5일(목), 이틀 간 <span class=\"underline\">서울, 판교 지역에서 출발하는 셔틀 버스</span>가 운행될 예정입니다.\n세부 운행 정보는 추후 안내 드리겠습니다."
   }
 }

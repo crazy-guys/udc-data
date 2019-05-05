@@ -4,7 +4,6 @@
   "schedule": "운행시간",
   "departure": "승차지점",
   "arrival": "하차지점",
-
   "venue": {
     "title": "행사장 안내",
     "sub_title": "그랜드 하얏트 인천",
@@ -42,7 +41,7 @@
         "그랜드 하얏트 인천, 웨스트 타워"
       ]
     },
-    "infos2": {
+    "info2": {
       "title": "자기부상열차",
       "items": [
         "무료",

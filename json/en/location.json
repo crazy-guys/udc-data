@@ -44,7 +44,7 @@
         "Free",
         "5 min",
         "07:30~20:30",
-        "/ Every 00,15,30,45 minutes.",
+        "Every 00,15,30,45 minutes.",
         "Incheon International Airport",
         "Terminal 1 Transportation Center,",
         "2nd Fl.",
@@ -63,7 +63,7 @@
         "Incheon International Airport Terminal 1"
       ]
     },
-    "infos4": {
+    "info4": {
       "title": "Airport Railroad (AREX)",
       "items": [
         "KRW 9,000 (approx. USD 8)",

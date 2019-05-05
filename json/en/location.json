@@ -15,11 +15,15 @@
       },
       {
         "key": "Tel",
-        "val": "032. 745. 1234"
+        "val": "+82 .32. 745. 1234"
       },
       {
         "key": "Fax",
-        "val": "032. 745. 2500"
+        "val": "+82 .32. 745. 2500"
+      },
+      {
+        "key": "Email",
+        "val": "incheon.grand@hyatt.com"
       }
     ],
     "go_to_homepage_prefix": "For more detailed information, ",
@@ -58,7 +62,7 @@
       "items": [
         "KRW 10,000~15,000 (approx. USD 9~14)",    
         "70 min (from Seoul Station)",
-        "https://www.airportlimousine.co.kr/eng/lbr/all/lbr02_2_6000.php",
+        "https://www.airportlimousine.co.kr",
         "",
         "Incheon International Airport Terminal 1"
       ]

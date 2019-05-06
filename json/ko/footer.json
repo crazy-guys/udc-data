@@ -3,5 +3,9 @@
         "facebook",
         "youtube",
         "instagram"
-    ]
+    ],
+    "allowedSns": [
+        "youtube"
+    ],
+    "snsAlert": "준비중입니다."
 }

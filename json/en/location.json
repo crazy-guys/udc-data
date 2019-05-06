@@ -6,7 +6,7 @@
   "arrival": "Arrival",
   "venue": {
     "title": "Venue",
-    "sub_title": "Grand HYATT",
+    "sub_title": "Grand HYATT Incheon",
     "description": "Grand Hyatt Incheon is strategically located at the gateway of Korea minutes away from the Incheon International Airport and is also surrounded by local attractions like Wangsan and Eurwang-ri beaches.",
     "infos": [
       {
@@ -20,10 +20,6 @@
       {
         "key": "Fax",
         "val": "+82-32-745-2500"
-      },
-      {
-        "key": "Email",
-        "val": "incheon.grand@hyatt.com"
       }
     ],
     "go_to_homepage_prefix": "For more detailed information, ",

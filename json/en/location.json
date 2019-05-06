@@ -7,7 +7,7 @@
   "venue": {
     "title": "Venue",
     "sub_title": "Grand HYATT",
-    "description": "Grand Hyatt Incheon is strategically located at the gateway of Korea minutes away from the Incheon International Airport and is also surrounded by local attractions like Wangsan and Eurwang-ri beaches. It is easily accessible from the downtown area of both Seoul and Incheon via the Incheon International Airport Expressway. And it is also conveniently located from Songdo via the Incheon Bridge.",
+    "description": "Grand Hyatt Incheon is strategically located at the gateway of Korea minutes away from the Incheon International Airport and is also surrounded by local attractions like Wangsan and Eurwang-ri beaches.",
     "infos": [
       {
         "key": "Address",
@@ -15,11 +15,11 @@
       },
       {
         "key": "Tel",
-        "val": "+82 .32. 745. 1234"
+        "val": "+82-32-745-1234"
       },
       {
         "key": "Fax",
-        "val": "+82 .32. 745. 2500"
+        "val": "+82-32-745-2500"
       },
       {
         "key": "Email",
@@ -31,7 +31,7 @@
   },
   "transportation": {
     "title": "Transportation",
-    "sub_title1": "Incheon Int’l Airport (Terminal 1)\n←→ Grand Hyatt Incheon",
+    "sub_title1": "Incheon Int’l Airport (Terminal 1)\n↔ Grand Hyatt Incheon",
     "info1": {
       "title": "Hotel Shuttle",
       "items": [
@@ -50,10 +50,7 @@
         "07:30~20:30",
         "Every 00,15,30,45 minutes.",
         "Incheon International Airport",
-        "Terminal 1 Transportation Center,",
-        "2nd Fl.",
-        "Administration Complex Station",
-        "(7-minute walk to Grand Hyatt Incheon)"
+        "Terminal 1 Transportation Center, 2nd Fl.\nAdministration Complex Station\n(7-minute walk to Grand Hyatt Incheon)"
       ]
     },
     "sub_title2": "Public transportation\nto Incheon Int’l Airport (Terminal 1)",
@@ -70,14 +67,14 @@
     "info4": {
       "title": "Airport Railroad (AREX)",
       "items": [
-        "KRW 9,000 (approx. USD 8)",
+        "KRW 9,000(approx. USD 8)",
         "43 min (from Seoul Station)",
         "https://www.arex.or.kr/main.do",
         "",
-        "Incheon International Airport Terminal"
+        "Incheon International Airport Terminal 1"
       ]
     }, 
     "sub_title3": "UDC 2019 Shuttle Bus",
-    "later_notice": "<span class=\"underline\">Shuttle buses from Seoul and Pangyo</span> will be available for 2 days from Sep. 4 (Wed) ~ 5 (Thu).  Detailed information on shuttle services will be provided at a later date."
+    "later_notice": "<span class=\"underline\">Shuttle buses from Seoul and Pangyo</span> will be available for 2 days from Sep. 4 (Wed) ~ 5 (Thu).<br/>Detailed information on shuttle services will be provided at a later date."
   }
 }

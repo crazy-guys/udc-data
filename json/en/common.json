@@ -53,7 +53,7 @@
         "udc2019": "UDC 2019",
         "udc2018": "UDC 2018",
         "glance": "At a Glance",
-        "detailedProgram": "Detailed program",
+        "detailedProgram": "Detailed Program",
         "venue": "Venue",
         "transportation": "Transportation",
         "generalInfo": "General<span class=\"mobile-only\"> </span><br class=\"pc-only\"/><span>Information</span>",
@@ -63,7 +63,7 @@
         "video": "Video"
     },
     "not_ready": {
-        "title": "We are currently working on our website!",
+        "title": "UDC 2019 site will be updated shortly. Please check back soon",
         "description": "Thank you for visiting.\nWe are currently revamping the official UDC 2019 website.\nStay tuned!",
         "description_m": "Thank you for visiting.\nWe are currently revamping\nthe official UDC 2019 website.\nStay tuned!"
     },

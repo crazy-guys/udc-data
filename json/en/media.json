@@ -4,6 +4,7 @@
   "gallery": "Gallery",
   "video": "Video",
   "registeredAt": "Date",
+  "pressAt": "Date",
   "newsAuthor": "Media",
   "goList": "List",
   "openLink": "Link to article",

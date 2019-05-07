@@ -56,7 +56,7 @@
         "detailedProgram": "Detailed program",
         "venue": "Venue",
         "transportation": "Transportation",
-        "generalInfo": "General<span class=\"mobile-only\"> </span><br class=\"pc-only\"/>Information",
+        "generalInfo": "General<span class=\"mobile-only\"> </span><br class=\"pc-only\"><span class=\"pc-only\" style=\"position:relative;top:-10px\">Information</span><span class=\"mobile-only\">Information</span>",
         "notice": "Notice",
         "news": "News",
         "gallery": "Gallery",

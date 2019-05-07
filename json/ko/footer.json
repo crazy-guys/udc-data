@@ -1,7 +1,7 @@
 {
     "sns": [
-        "facebook",
         "youtube",
+        "facebook",
         "instagram"
     ],
     "allowedSns": [

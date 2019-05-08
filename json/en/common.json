@@ -56,7 +56,7 @@
         "detailedProgram": "Detailed Program",
         "venue": "Venue",
         "transportation": "Transportation",
-        "generalInfo": "General <br class=\"pc-only\"/>Information",
+        "generalInfo": "General <br class=\"pc-only\"/><span> Information</span>",
         "notice": "Notice",
         "news": "News",
         "gallery": "Gallery",

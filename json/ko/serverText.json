@@ -9,15 +9,15 @@
 	"noData": "데이터가 없습니다.",
 	"emptyFilename": "파일 이름이 비어있습니다.",
 	
-	"mail.certificationNumberSubject": "[UDC] Certification number",
+	"orderAleardyPaid": "이미 결제된 주문입니다.",
+	"orderNotPaid": "결제가 안된 주문입니다.",
+	"orderCanPurchaseOnlyYourself": "본인 구매만 가능합니다.",
+	"orderMustBuyFirst": "item 구매가 필요합니다.",
+	"orderContactUsCancelPayment": "결제 취소를 위해서는 연락해주세요.",
+	"orderNotNormalApproach": "정상적인 접근이 아닙니다.",
+	"orderErrorOccurred": "에러 발생",
 	
-	"order.aleardyPaid": "이미 결제된 주문입니다.",
-	"order.notPaid": "결제가 안된 주문입니다.",
-	"order.canPurchaseOnlyYourself": "본인 구매만 가능합니다.",
-	"order.mustBuyFirst": "먼저 아이템을 구입해야합니다.",
-	"order.contactUsCancelPayment": "결제 취소를 위해서는 연락해주세요.",
-	"order.notNormalApproach": "정상적인 접근이 아닙니다.",
-	"order.errorOccurred": "에러 발생",
+	"couponExpired": "기간이 만료된 쿠폰입니다.",
 	
-	"coupon.expired": "기간이 만료된 쿠폰입니다."
+	"mail.certificationNumberSubject": "[UDC] Certification number"
 }

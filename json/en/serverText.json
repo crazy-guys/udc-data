@@ -9,15 +9,15 @@
 	"noData": "No data.",
 	"emptyFilename": "Empty filename",
 	
-	"mail.certificationNumberSubject": "[UDC] Certification number",
+	"orderAleardyPaid": "This order has already been paid.",
+	"orderNotPaid": "This is a non-payment order.",
+	"orderCanPurchaseOnlyYourself": "You can purchase only yourself.",
+	"orderMustBuyFirst": "You must buy item first.",
+	"orderContactUsCancelPayment": "Please contact us to cancel your payment.",
+	"orderNotNormalApproach": "This is not a normal approach.",
+	"orderErrorOccurred": "Error occurred.",
 	
-	"order.aleardyPaid": "This order has already been paid.",
-	"order.notPaid": "This is a non-payment order.",
-	"order.canPurchaseOnlyYourself": "You can purchase only yourself.",
-	"order.mustBuyFirst": "You must buy item first.",
-	"order.contactUsCancelPayment": "Please contact us to cancel your payment.",
-	"order.notNormalApproach": "This is not a normal approach.",
-	"order.errorOccurred": "Error occurred.",
+	"couponExpired": "This coupon has expired.",
 	
-	"coupon.expired": "This coupon has expired."
+	"mail.certificationNumberSubject": "[UDC] Certification number"
 }

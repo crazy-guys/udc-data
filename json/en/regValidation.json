@@ -1,0 +1,5 @@
+{
+    "onlyNumberAllowed": "Please enter only numbers.",
+    "notValidEmail": "Sorry, this address  is not valid.",
+    "invalidPromotionCode": "Sorry, this code is not valid."
+}

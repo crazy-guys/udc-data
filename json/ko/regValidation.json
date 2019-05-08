@@ -4,5 +4,7 @@
     "notValidEmail": "유효한 주소가 아닙니다.",
     "onlyEngAllowed": "영문만 입력해주세요.",
     "invalidPromotionCode": "유효한 코드가 아닙니다.",
-    "requiredField": "필수 입력 항목입니다."
+    "requiredField": "필수 입력 항목입니다.",
+    "invalidCertCode": "인증번호가 일치하지 않습니다.",
+    "checkEmailDupFirst": "이메일 중복검사를 먼저 해주시기 바랍니다."
 }

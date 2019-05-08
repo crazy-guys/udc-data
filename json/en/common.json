@@ -19,7 +19,7 @@
         "press": "Public Relation/Media",
         "education": "Related institution",
         "etc": "Others",
-        "typeContent": "내용을 기입해 주세요. (영문 문구 필요.)"
+        "typeContent": "Please fill in the blank."
     },
     "funnel": {
         "label": "Route",
@@ -33,6 +33,13 @@
     "firstName": "First Name",
     "lastName": "Last Name",
     "korName": "Korean Name",
+    "passwordPlaceholder": "Password (6~16 characters consisting of letters(A-Z,a-z)",
+    "passwordConfirm": "Password Confirm",
+    "verificationCodePlaceholder": "Enter verification code",
+    "sendVerificationCode": "Send code",
+    "checkVerificationCode": "Check",
+    "checkEmailDup": "Check Duplicate",
+    "confirmed": "Confirm",
     "selectCountry": "Country",
     "phoneNumber": "Mobile Phone Number",
     "countryNumber": "Country Number",

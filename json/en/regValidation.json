@@ -3,5 +3,7 @@
     "notValidEmail": "Sorry, this address  is not valid.",
     "invalidPromotionCode": "Sorry, this code is not valid.",
     "onlyEngAllowed": "Please enter only alphabets.",
-    "requiredField": "Required field."
+    "requiredField": "Required field.",
+    "invalidCertCode": "Incorrect verification code.",
+    "checkEmailDupFirst": "Check email duplication first."
 }

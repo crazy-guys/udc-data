@@ -1,5 +1,6 @@
 {
     "step1": {
+        "myTicketLinkText": "My Ticket",
         "title": "1. Choose<br/>a ticket type",
         "note": {
             "title": "Please be noted",
@@ -76,7 +77,7 @@
         "5": {
             "title": "ONSITE",
             "name": "OnSite",
-            "description": "<1>Onsite registration</1>available."
+            "description": "<1>Onsite registration</1><br/>available."
         },
         "includes": {
             "title": "TICKET INCLUDES",

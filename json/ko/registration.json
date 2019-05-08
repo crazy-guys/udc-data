@@ -2,6 +2,7 @@
     "step1": {
         "myTicketLinkText": "나의 티켓 정보 확인",
         "title": "1. 티켓타입 선택",
+        "tickets": "UDC 2019 티켓 구매하기",
         "note": {
             "title": "꼭 알아두세요!",
             "purchaseNotice": {

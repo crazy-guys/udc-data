@@ -2,6 +2,7 @@
     "step1": {
         "myTicketLinkText": "My Ticket",
         "title": "1. Choose<br/>a ticket type",
+        "tickets": "UDC 2019 TICKET",
         "note": {
             "title": "Please be noted",
             "purchaseNotice": {

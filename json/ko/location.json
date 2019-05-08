@@ -23,7 +23,8 @@
       }
     ],
     "go_to_homepage_prefix": "",
-    "go_to_homepage": "홈페이지 바로가기"
+    "go_to_homepage": "홈페이지 바로가기",
+    "go_to_homepage_suffix": ""
   },
   "transportation": {
     "title": "오시는길",
@@ -56,7 +57,7 @@
       "items": [
         "10,000~15,000(원)",
         "70분 (서울역 기준)",
-        "https://www.airportlimousine.co.kr",
+        "http://www.airportlimousine.co.kr/eng/lbr/all/lbr02_2_6000.php",
         "",
         "인천국제공항 제1터미널"
       ]

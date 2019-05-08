@@ -1,0 +1,23 @@
+{
+    "loginFailed": "비밀번호 혹은 핸드폰 번호를 확인해주세요.",
+	"incorrectPassword": "비밀번호가 틀립니다.",
+	"notEmailFormat": "유효한 이메일 형식이 아닙니다.",
+	"duplicateNickname": "이미 등록된 전화번호입니다.",
+	"duplicateEmail": "이미 등록된 이메일입니다.",
+	"noRegisteredEmails": "등록되지 않은 이메일입니다.",
+	"invalidCertNumber": "유효하지 않은 인증번호입니다.",
+	"noData": "데이터가 없습니다.",
+	"emptyFilename": "파일 이름이 비어있습니다.",
+	
+	"mail.certificationNumberSubject": "[UDC] Certification number",
+	
+	"order.aleardyPaid": "이미 결제된 주문입니다.",
+	"order.notPaid": "결제가 안된 주문입니다.",
+	"order.canPurchaseOnlyYourself": "본인 구매만 가능합니다.",
+	"order.mustBuyFirst": "먼저 아이템을 구입해야합니다.",
+	"order.contactUsCancelPayment": "결제 취소를 위해서는 연락해주세요.",
+	"order.notNormalApproach": "정상적인 접근이 아닙니다.",
+	"order.errorOccurred": "에러 발생",
+	
+	"coupon.expired": "기간이 만료된 쿠폰입니다."
+}

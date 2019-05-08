@@ -2,29 +2,28 @@
     "step1": {
         "title": "1. Choose<br/>a ticket type",
         "note": {
-            "title": "꼭 알아두세요!",
+            "title": "Please be noted",
             "purchaseNotice": {
-                "title": "티켓 구매 유의사항",
+                "title": "Purchase Notice",
                 "description": [
-                    "컨퍼런스 티켓은 선착순(결제 일시 기준)으로 판매되며 조기 매진될 수 있습니다.",
-                    "할인 등록비 적용을 위하여 마감 기한 전 결제를 완료해주시기 바랍니다.",
-                    "세금계산서 발행이 필요하신 경우 UDC 준비사무국으로 문의주시기 바랍니다.",
-                    "예매하신 티켓은 사전 발송되지 않으며, 당일 현장에서 입장권으로 발급됩니다.",
-                    "참가자는 한 번에 최대 10명까지 등록 가능합니다. 11명 이상 구매를 원하실 경우 추가 티켓 구매를 이용해 주시기 바랍니다.",
-                    "개인 정보 허위 기재 시 등록이 취소될 수 있습니다."
+                    "The conference tickets are sold on a first-come, first-served basis(based on the payment date) and can sell out early.",
+                    "Please complete your payment before the deadline to receive a discount.",
+                    "Up to 10 participants can be registered at a time.",
+                    "Reserved tickets will not be shipped; they will be issued onsite on the first day of the conference.",
+                    "Any use of false personal information can result in cancellation.",
+                    "Credit cards are only allow."
                 ]
             },
             "refundPolicy": {
-                "title": "취소/환불 규정",
+                "title": "Cancellation and Refund Policy",
                 "description": [
-                    "취소 및 환불은 UDC 준비사무국에 이메일로 신청하실 수 있습니다. ",
-                    "행사 운영 준비로 인해 9월 3일(화) 이후 환불 처리는 9월 16일(월)부터 처리됩니다.  (이메일 접수 순)",
-                    "기간 별 환불 규정",
-                    "- 5월 13일 ~ 8월 9일까지(사전등록 마감일) : 100% 환불",
-                    "- 8월 24일 ~ 9월 3일까지(행사 1일 전) : 80% 환불",
-                    "- 9월 4일부터 : 환불 불가",
-                    "당일 취소가 아닌 경우, 결제사에 따라 환불 처리 기간이 다를 수 있습니다. ",
-                    "해당 카드사 영업일 기준으로 2~5일이 지났음에도 취소 및 환불이 되지 않았을 경우에는 해당 카드사에 문의해주시기 바랍니다. "
+                    "You can request cancellation and a refund via email to the Secretariat. <a class=\"email-btn\" href=\"udc_reg@upbit.com\">Send Email</a>",
+                    "If you request a refund after Sep. 3 (Tue), please understand that the refund will be processed after Sep. 16",
+                    "(Mon) for administrative reasons. (Processed in an email reception order)",
+                    "Refund Regulations by Period",
+                    "<span class=\"darkish-blue-color\">- May 13 ~ Aug 9 (Registration due date) :</span> <span class=\"cerulean-blue-color\">100% refund</span>",
+                    "<span class=\"darkish-blue-color\">- Aug 24 ~ Sep. 3 (A day before the event) :</span> <span class=\"cerulean-blue-color\">80% refund</span>",
+                    "<span class=\"darkish-blue-color\">- From Sep. 4 (For the duration of the event) :</span> <span class=\"cerulean-blue-color\">No refund</span>"
                 ]
             }
         }
@@ -57,41 +56,42 @@
         "1": {
             "title": "BLIND",
             "name": "Blind",
-            "description": "블라인드 기간에 등록하시면<br/><1>65% 할인된 가격</1>으로 구매하실 수 있습니다.",
-            "discountPercent": "65%"
+            "description": "Grab <1>65%</1> Blind<br/>Discount!"
         },
         "2": {
             "title": "EARLY BIRD",
             "name": "Early Bird",
-            "description": "<1>50% 할인된 가격</1>으로 <br/>구매하실 수 있습니다."
+            "description": "Grab <1>50%</1> Early Bird<br/>Discount!"
         },
         "3": {
             "title": "STANDARD",
             "name": "Standard",
-            "description": "<1>25% 할인된 가격</1>으로 <br/>구매하실 수 있습니다."
+            "description": "Grab <1>25%</1> Discount!"
         },
         "4": {
             "title": "STUDENTS",
             "name": "Students",
-            "description": "<1>학생 100명 선착순 75% 할인,</1><br/>학생증 또는 재학증명서 첨부 필수입니다. "
+            "description": "<1>Discounts available for first 100</1> students<br/>Please be sure to attach a copy of your<br/>student ID card or a certificate indicating<br/>that you are a student"
         },
         "5": {
             "title": "ONSITE",
             "name": "OnSite",
-            "description": "미리 티켓을 구매하지 못한 분은<br/><1>현장에서 티켓을 구매</1>하실 수 있습니다."
+            "description": "<1>Onsite registration</1>available."
         },
         "includes": {
-            "title": "티켓포함사항",
+            "title": "TICKET INCLUDES",
             "description": [
-                "컨퍼런스 전 기간 참가권",
-                "핸즈온 세션(선착순 마감)",
-                "네트워킹 라운지 및  현장 이벤트 참가권",
-                "점심 2회 제공",
-                "커피브레이크 제공",
-                "네트워킹 디너 1회 제공",
-                "무선 인터넷",
-                "등록 기념품",
-                "전시 관람권"
+                "Access to all programs for the",
+                "duration of the event",
+                "Access to Networking Lounge and",
+                "onsite events ",
+                "Lunch  for 2days",
+                "Coffee break service ",
+                "Networking Dinner(Official Dinner)",
+                "ticket",
+                "Free Wi-Fi",
+                "Souvenir",
+                "Access to  Exhibition"
             ]
         }
     },

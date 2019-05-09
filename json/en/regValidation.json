@@ -7,5 +7,5 @@
     "requiredField": "Required field.",
     "isRequiredField": "{{key}} is required field.",
     "invalidCertCode": "Incorrect verification code.",
-    "checkEmailDupFirst": "Check email duplication first."
+    "checkPhoneNumberDupFirst": "Check phone number duplication first."
 }

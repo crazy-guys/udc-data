@@ -16,6 +16,7 @@
 	"orderContactUsCancelPayment": "Please contact us to cancel your payment.",
 	"orderNotNormalApproach": "This is not a normal approach.",
 	"orderErrorOccurred": "Error occurred.",
+	"orderDupicateUsername": "Additional purchase tickets have duplicate phone numbers.",
 	
 	"couponExpired": "This coupon has expired.",
 	

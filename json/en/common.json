@@ -42,6 +42,7 @@
     "confirmed": "Confirm",
     "selectCountry": "Country",
     "phoneNumber": "Mobile Phone Number",
+    "phoneNumberPlaceholder": "Mobile Phone Number",
     "countryNumber": "Country Number",
     "email": "E-mail",
     "companyKo": "Department Kor",

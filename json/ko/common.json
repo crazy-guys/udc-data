@@ -12,6 +12,7 @@
         "label": "지난 행사 참석 여부",
         "checkboxLabel": "UDC 2018 참석"
     },
+    "typeContent": "내용을 기입해 주세요.",
     "occupation": {
         "label": "직종",
         "developer": "개발자",
@@ -19,8 +20,7 @@
         "planner": "기획자",
         "press": "언론",
         "education": "교육",
-        "etc": "기타",
-        "typeContent": "내용을 기입해 주세요."
+        "etc": "기타"
     },
     "funnel": {
         "label": "유입 경로",

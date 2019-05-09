@@ -1,5 +1,6 @@
 {
     "failedToLoadTransRes": "Failed to load translation resource.",
+    "save": "Save",
     "language": "English",
     "language3Alpha": "ENG",
     "dateFormat": "MMM DD (ddd)",
@@ -11,6 +12,7 @@
         "label": " UDC 2018 attended",
         "checkboxLabel": "Yes"
     },
+    "typeContent": "Please fill in the blank.",
     "occupation": {
         "label": "Position",
         "developer": "Developer",
@@ -18,8 +20,7 @@
         "planner": "Technical support",
         "press": "Public Relation/Media",
         "education": "Related institution",
-        "etc": "Others",
-        "typeContent": "Please fill in the blank."
+        "etc": "Others"
     },
     "funnel": {
         "label": "Route",
@@ -38,7 +39,7 @@
     "verificationCodePlaceholder": "Enter verification code",
     "sendVerificationCode": "Send code",
     "checkVerificationCode": "Check",
-    "checkEmailDup": "Check Duplicate",
+    "checkEmailDup": "Check",
     "confirmed": "Confirm",
     "selectCountry": "Country",
     "phoneNumber": "Mobile Phone Number",

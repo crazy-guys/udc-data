@@ -35,7 +35,9 @@
     },
     "step3": {
         "title": "3. Enter personal<br/>information",
+        "addTicket": "Enter the participant information",
         "buyerInfo": "Customer's Information",
+        "participant": "Participant Information",
         "sameWithBuyer": "Same as the Customer's information.",
         "noteStudent": "※Please be sure to attach a copy of your student ID card or a certificate indicating  that you are a student.",
         "note": {

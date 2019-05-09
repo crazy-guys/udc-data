@@ -36,6 +36,9 @@
     },
     "step3": {
         "title": "3. 정보입력",
+        "addTicket": "참가자 추가",
+        "buyerInfo": "구매자 기본정보",
+        "participant": "참가자 정보입력",
         "sameWithBuyer": "구매자 기본 정보와 동일합니다.",
         "noteStudent": "※ 현재 학생임을 확인할 수 있는 자료를 제출해주세요.",
         "note": {

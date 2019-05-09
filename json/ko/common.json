@@ -40,6 +40,7 @@
     "sendVerificationCode": "인증번호받기",
     "checkVerificationCode": "확인",
     "checkEmailDup": "중복 확인",
+    "confirm": "확인",
     "confirmed": "확인완료",
     "signIn": "확인",
     "selectCountry": "국적 선택",

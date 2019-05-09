@@ -40,6 +40,7 @@
     "sendVerificationCode": "Send code",
     "checkVerificationCode": "Check",
     "checkEmailDup": "Check",
+    "confirm": "Confirm",
     "confirmed": "Confirm",
     "signIn": "Sign in",
     "selectCountry": "Country",

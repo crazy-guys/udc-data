@@ -41,6 +41,7 @@
     "checkVerificationCode": "확인",
     "checkEmailDup": "중복 확인",
     "confirmed": "확인완료",
+    "signIn": "확인",
     "selectCountry": "국적 선택",
     "phoneNumber": "휴대폰 번호",
     "phoneNumberPlaceholder": "휴대폰 번호 ‘-’ 하이픈 없이 입력하세요",

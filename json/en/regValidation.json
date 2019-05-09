@@ -4,6 +4,7 @@
     "invalidPromotionCode": "Sorry, this code is not valid.",
     "onlyEngAllowed": "Please enter only alphabets.",
     "requiredField": "Required field.",
+    "isRequiredField": "{{key}} is required field.",
     "invalidCertCode": "Incorrect verification code.",
     "checkEmailDupFirst": "Check email duplication first."
 }

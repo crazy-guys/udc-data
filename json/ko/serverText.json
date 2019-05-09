@@ -16,6 +16,7 @@
 	"orderContactUsCancelPayment": "결제 취소를 위해서는 연락해주세요.",
 	"orderNotNormalApproach": "정상적인 접근이 아닙니다.",
 	"orderErrorOccurred": "에러 발생",
+	"orderDupicateUsername": "추가 구매 티켓에 중복되는 전화번호가 있습니다.",
 	
 	"couponExpired": "기간이 만료된 쿠폰입니다.",
 	

@@ -34,6 +34,7 @@
     "firstName": "First Name",
     "lastName": "Last Name",
     "korName": "국문 성명",
+    "name": "이름",
     "passwordPlaceholder": "비밀번호 (주문내역 확인용 / 6자 이상)",
     "passwordConfirm": "비밀번호 재확인",
     "verificationCodePlaceholder": "인증번호",

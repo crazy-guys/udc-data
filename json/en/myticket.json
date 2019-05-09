@@ -4,5 +4,20 @@
         "fromMyTicketDescription": "You can check your information using your e-mail address and password after you purchase your first ticket.",
         "buyMoreTicketTitle": "Buy more tickets",
         "buyMoreTicketDescription": "You can log in using your e-mail address and password after you purchase your first ticket."
+    "login_from_my_ticket": {
+      "title": "My Ticket",
+      "description" : "You can check your information using your e-mail address and password after you purchase your first ticket."
+    },
+    "login_from_buy_more_ticket": {
+      "title": "Buy more tickets",
+      "description" : "You can log in using your e-mail address and password after you purchase your first ticket."
+    },
+    "find_pw": {
+      "title": "Find Password",
+      "description": ""
+    },
+    "find_pw_complete": {
+      "title": "We send your password to\n<span style=\"color:#0367d9\">{{{email}}</span>",
+      "description": "Please check your email, and sign in again."
     }
 }

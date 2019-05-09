@@ -34,6 +34,7 @@
     "firstName": "First Name",
     "lastName": "Last Name",
     "korName": "Korean Name",
+    "name": "Name",
     "passwordPlaceholder": "Password (6~16 characters consisting of letters(A-Z,a-z)",
     "passwordConfirm": "Password Confirm",
     "verificationCodePlaceholder": "Enter verification code",

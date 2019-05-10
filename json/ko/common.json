@@ -82,5 +82,6 @@
     },
     "telNumber": "02-6242-2827",
     "tel": "대표전화",
-    "findPassword": "비밀번호 찾기"
+    "findPassword": "비밀번호 찾기",
+    "ticketCount": "{{count}}장"
 }

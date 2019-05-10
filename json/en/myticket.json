@@ -28,5 +28,12 @@
   "buyMoreTickets": "Buy more Tickets",
   "goToPay": "Go to Pay",
   "receipt": "Receipt",
-  "detail": "Detail"
+  "detail": "Detail",
+  "login_failed_dialog": {
+    "title": "Failed to find registered ticket information.",
+    "descripiton": "Please check your phone number. ",
+    "forget_pw_link": "Forgot your Password?",
+    "goToHome": "Home",
+    "goToBuyTicket": "Go to Buy Ticket"
+  }
 }

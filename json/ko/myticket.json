@@ -28,5 +28,12 @@
   "buyMoreTickets": "추가 구매하기",
   "goToPay": "결제하기",
   "receipt": "영수증",
-  "detail": "상세보기"
+  "detail": "상세보기",
+  "login_failed_dialog": {
+    "title": "등록된 티켓 정보가 없습니다.",
+    "descripiton": "Please check your phone number. ",
+    "forget_pw_link": "Forgot your Password?",
+    "goToHome": "Home",
+    "goToBuyTicket": "Go to Buy Ticket"
+  }
 }

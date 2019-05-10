@@ -32,7 +32,12 @@
         }
     },
     "step2": {
-        "title": "2. 약관동의"
+        "title": "2. 약관동의",
+        "totalAgreeCheckboxText": "이용약관, 개인정보 수집 및 이용에 모두 동의합니다. <span class=\"required\">(필수)</span>",
+        "checkbox1Text": "개인정보 수집 및 이용에 대한 안내 <span class=\"required\">(필수)</span>",
+        "checkbox2Text": "이벤트 및 프로모션 알림 메일 수신 <span class=\"option\">(선택)</span><span class=\"tip\">*UDC 행사정보 안내를 받으시려면 동의해주시기 바랍니다.</span>",
+        "disagree": "동의 하지 않음",
+        "next": "다음으로"
     },
     "step3": {
         "title": "3. 정보입력",

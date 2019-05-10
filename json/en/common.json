@@ -84,5 +84,6 @@
     "telNumber": "82-2-6242-2827",
     "tel": "Tel",
     "findPassword": "Forgot your Password?",
-    "ticketCount": "{{count}}ea"
+    "ticketCount": "{{count}}ea",
+    "modify": "Modify"
 }

@@ -28,5 +28,7 @@
   "payMotheds": "Payment Methods",
   "totalPayPrice": "In Total",
   "buyMoreTickets": "Buy more Tickets",
-  "goToPay": "Go to Pay"
+  "goToPay": "Go to Pay",
+  "receipt": "Receipt",
+  "detail": "Detail"
 }

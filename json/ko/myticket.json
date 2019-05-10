@@ -28,5 +28,7 @@
   "payMotheds": "결제 수단 선택",
   "totalPayPrice": "총 결제 금액",
   "buyMoreTickets": "추가 구매하기",
-  "goToPay": "결제하기"
+  "goToPay": "결제하기",
+  "receipt": "영수증",
+  "detail": "상세보기"
 }

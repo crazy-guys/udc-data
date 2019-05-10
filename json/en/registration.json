@@ -34,7 +34,7 @@
         "title": "2. Conference Policy<br/>Agreement",
         "totalAgreeCheckboxText": "Agree to UDC2019’s Privacy Policy and receive events and promotional emails (Option).",
         "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es).<br/>You must agree with the terms of these agreements to continue.",
-        "checkbox2Text": "Receive promotional e-mails <span>(Option)</span><p class=\"subtext\">* Please agree with the terms of Promotional e-mails agreement to receive current information about UDC 2019</p>",
+        "checkbox2Text": "Receive promotional e-mails <span class=\"optional\">(Option)</span><p class=\"subtext\">* Please agree with the terms of Promotional e-mails agreement to receive current information about UDC 2019</p>",
         "disagree": "Disagree",
         "next": "Next"
     },

@@ -23,5 +23,10 @@
   },
   "payWaiting": "Wait for payment",
   "payDone": "Completed",
-  "totalTicketCount": "(Total {{count}} tickets)"
+  "totalTicketCount": "(Total {{count}} tickets)",
+  "deleteTicket": "Delete",
+  "payMotheds": "Payment Methods",
+  "totalPayPrice": "In Total",
+  "buyMoreTickets": "Buy more Tickets",
+  "goToPay": "Go to Pay"
 }

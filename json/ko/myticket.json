@@ -23,5 +23,10 @@
   },
   "payWaiting": "결제대기",
   "payDone": "결제 완료",
-  "totalTicketCount": "(총 {{count}}장)"
+  "totalTicketCount": "(총 {{count}}장)",
+  "deleteTicket": "선택 티켓 삭제",
+  "payMotheds": "결제 수단 선택",
+  "totalPayPrice": "총 결제 금액",
+  "buyMoreTickets": "추가 구매하기",
+  "goToPay": "결제하기"
 }

@@ -20,5 +20,8 @@
   "find_pw_complete": {
     "title": "We send your password to\n<span style=\"color:#0367d9\">{{{email}}</span>",
     "description": "Please check your email, and sign in again."
-  }
+  },
+  "payWaiting": "Wait for payment",
+  "payDone": "Completed",
+  "totalTicketCount": "(Total {{count}} tickets)"
 }

@@ -85,5 +85,6 @@
     "tel": "Tel",
     "findPassword": "Forgot your Password?",
     "ticketCount": "{{count}}ea",
-    "modify": "Modify"
+    "modify": "Modify",
+    "close": "Close"
 }

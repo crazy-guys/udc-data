@@ -45,6 +45,9 @@
         "participant": "Participant Information",
         "sameWithBuyer": "Same as the Customer's information.",
         "noteStudent": "※Please be sure to attach a copy of your student ID card or a certificate indicating  that you are a student.",
+        "buyMoreTickets": "Buy More Tickets",
+        "alreadyRegisteredPhoneNumber": "This Phone Number is already registered.",
+        "checkMyTicket": "Go to My Ticket",
         "note": {
             "title": "<span>UDC 2019</span> <1>Blind Ticket purchase</1>",
             "description": [

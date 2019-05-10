@@ -1,7 +1,8 @@
 {
+    "onlyNumberAllowed": "숫자만 입력해주세요.",
+    "isNotValid": "유효한 {{key, josa-i-ga}} 아닙니다.",
     "notValidEmail": "유효한 주소가 아닙니다.",
     "passwordNotEquals": "패스워드가 일치하지 않습니다.",
-    "onlyNumberAllowed": "숫자만 입력해주세요.",
     "onlyKorAllowed": "국문만 입력해주세요.",
     "invalidPromotionCode": "유효한 코드가 아닙니다.",
     "onlyEngAllowed": "영문만 입력해주세요.",

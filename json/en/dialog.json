@@ -1,0 +1,21 @@
+{
+  "loginFaield": {
+    "title": "Failed to find registered ticket information.",
+    "message": "Please check your phone number. ",
+    "forget_pw_link": "Forgot your Password?",
+    "goToHome": "Home",
+    "goToBuyTicket": "Go to Buy Ticket"
+  },
+  "registrationComplete": {
+    "title": "UDC 2019 Ticket Registration",
+    "message": "Registration confirm e-mail <br class=\"mobile-only\"/>has been sent to you.<br class=\"mobile-only\"/>You can check your registration information<br class=\"mobile-only\"/> in My Ticket Menu.",
+    "link": "My ticket"
+  },
+  "emailAlreadyRegistered": {
+    "title": "This E-mail address<br/>is already registered.",
+    "link": "Go to My Ticket",
+    "buttons": [
+      "Buy More Tickets"
+    ]
+  }
+}

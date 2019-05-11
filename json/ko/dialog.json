@@ -22,11 +22,11 @@
       "메인으로"
     ]
   },
-  "emailAlreadyRegistered": {
-    "title": "This E-mail address<br/>is already registered.",
-    "link": "Go to My Ticket",
+  "alreadyRegistered": {
+    "title": "해당 핸드폰 번호는  <br class=\"mobile-only\"/>이미 등록되어 있습니다.",
+    "link": "나의 티켓 정보 확인",
     "buttons": [
-      "Buy More Tickets"
+      "추가 티켓 구매"
     ]
   }
 }

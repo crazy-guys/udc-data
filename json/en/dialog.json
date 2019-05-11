@@ -22,8 +22,8 @@
       "Main"
     ]
   },
-  "emailAlreadyRegistered": {
-    "title": "This E-mail address<br/>is already registered.",
+  "alreadyRegistered": {
+    "title": "This E-mail address <br class=\"mobile-only\"/>is already registered.",
     "link": "Go to My Ticket",
     "buttons": [
       "Buy More Tickets"

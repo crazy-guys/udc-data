@@ -19,7 +19,7 @@
             "refundPolicy": {
                 "title": "Cancellation and Refund Policy",
                 "description": [
-                    "You can request cancellation and a refund via email to the Secretariat. <a class=\"email-btn\" href=\"udc_reg@upbit.com\">Send Email</a>",
+                    "You can request cancellation and a refund via email to the Secretariat. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">Send Email</a>",
                     "If you request a refund after Sep. 3 (Tue), please understand that the refund will be processed after Sep. 16",
                     "(Mon) for administrative reasons. (Processed in an email reception order)",
                     "Refund Regulations by Period",

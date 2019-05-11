@@ -28,5 +28,6 @@
   "buyMoreTickets": "추가 구매하기",
   "goToPay": "결제하기",
   "receipt": "영수증",
-  "detail": "상세보기"
+  "detail": "상세보기",
+  "payWaitingEmpty": "결제 대기중인 티켓이 없습니다."
 }

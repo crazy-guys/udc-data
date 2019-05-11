@@ -28,5 +28,6 @@
   "buyMoreTickets": "Buy more Tickets",
   "goToPay": "Go to Pay",
   "receipt": "Receipt",
-  "detail": "Detail"
+  "detail": "Detail",
+  "payWaitingEmpty": "Empty"
 }

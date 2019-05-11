@@ -10,7 +10,7 @@
       {
         "title": "메인으로",
         "path": "/"
-      }
+      },
       {
         "title": "티켓 구매하기",
         "path": "/registration"

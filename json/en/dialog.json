@@ -7,7 +7,10 @@
       "path": "/find_password"
     },
     "buttons": [
-      "Home",
+      {
+        "title": "Home",
+        "path": "/"
+      },
       {
         "title": "Go to Buy Ticket",
         "path": "/registration"
@@ -19,7 +22,10 @@
     "message": "Registration confirm e-mail <br class=\"mobile-only\"/>has been sent to you.<br class=\"mobile-only\"/>You can check your registration information<br class=\"mobile-only\"/> in My Ticket Menu.",
     "link": "My ticket",
     "buttons": [
-      "Main"
+      {
+        "title": "Home",
+        "path": "/"
+      }
     ]
   },
   "alreadyRegistered": {

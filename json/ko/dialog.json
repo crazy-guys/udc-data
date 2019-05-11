@@ -7,7 +7,10 @@
       "path": "/find_password"
     },
     "buttons": [
-      "메인으로",
+      {
+        "title": "메인으로",
+        "path": "/"
+      }
       {
         "title": "티켓 구매하기",
         "path": "/registration"
@@ -19,7 +22,10 @@
     "message": "입력하신 이메일과 휴대폰 번호로<br/>등록 확인 메시지가 전송되었습니다.<br/>나의 티켓 정보 확인에서 등록하신 정보를 <br class=\"mobile-only\"/>확인하실 수 있습니다.",
     "link": "나의 티켓 정보 확인",
     "buttons": [
-      "메인으로"
+      {
+        "title": "메인으로",
+        "path": "/"
+      }
     ]
   },
   "alreadyRegistered": {

@@ -31,9 +31,9 @@
   "detail": "상세보기",
   "login_failed_dialog": {
     "title": "등록된 티켓 정보가 없습니다.",
-    "descripiton": "Please check your phone number. ",
-    "forget_pw_link": "Forgot your Password?",
-    "goToHome": "Home",
-    "goToBuyTicket": "Go to Buy Ticket"
+    "descripiton": "휴대폰 번호를 다시 한번 확인 해주세요. ",
+    "forget_pw_link": "비밀번호 찾기",
+    "goToHome": "메인으로",
+    "goToBuyTicket": "티켓 구매하기"
   }
 }

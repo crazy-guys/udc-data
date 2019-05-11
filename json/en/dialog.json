@@ -1,5 +1,5 @@
 {
-  "loginFaield": {
+  "loginFailed": {
     "title": "Failed to find registered ticket information.",
     "message": "Please check your phone number. ",
     "forget_pw_link": "Forgot your Password?",

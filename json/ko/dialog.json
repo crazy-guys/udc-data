@@ -1,5 +1,5 @@
 {
-  "loginFaield": {
+  "loginFailed": {
     "title": "등록된 티켓 정보가 없습니다.",
     "message": "휴대폰 번호를 다시 한번 확인 해주세요. ",
     "link": "비밀번호 찾기",

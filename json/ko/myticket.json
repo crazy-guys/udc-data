@@ -19,7 +19,7 @@
     "title": "등록하신 이메일은\n<span style=\"color:#0367d9\">{{email}}</span> 입니다.",
     "description": "해당 메일로 재설정된 비밀번호를 전송하였습니다."
   },
-  "payWaiting": "결제대기",
+  "payWaiting": "결제 대기",
   "payDone": "결제 완료",
   "totalTicketCount": "(총 {{count}}장)",
   "deleteTicket": "선택 티켓 삭제",

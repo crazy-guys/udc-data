@@ -34,6 +34,7 @@
     "firstName": "First Name",
     "lastName": "Last Name",
     "korName": "국문 성명",
+    "korNamePlaceholder": "국문 성명(예시: 홍길동)",
     "name": "이름",
     "password": "비밀번호",
     "passwordPlaceholder": "비밀번호 (주문내역 확인용 / 6자 이상)",

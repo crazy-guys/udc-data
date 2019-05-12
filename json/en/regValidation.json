@@ -10,5 +10,6 @@
     "invalidCertCode": "Incorrect verification code.",
     "checkPhoneNumberDupFirst": "Check phone number duplication first.",
     "phoneNumberVerificationRequired": "Phone Number Verification Required.",
-    "passwordNotMatched": "The password does not match."
+    "passwordNotMatched": "The password does not match.",
+    "invalidPasswordLength": "password minimum length is 8 characters"
 }

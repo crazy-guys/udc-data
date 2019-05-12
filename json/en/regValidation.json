@@ -9,5 +9,6 @@
     "isRequiredField": "{{key}} is required field.",
     "invalidCertCode": "Incorrect verification code.",
     "checkPhoneNumberDupFirst": "Check phone number duplication first.",
-    "phoneNumberVerificationRequired": "Phone Number Verification Required."
+    "phoneNumberVerificationRequired": "Phone Number Verification Required.",
+    "passwordNotMatched": "The password does not match."
 }

@@ -38,6 +38,7 @@
     "password": "Password",
     "passwordPlaceholder": "Password (6~16 characters consisting of letters(A-Z,a-z)",
     "passwordConfirm": "Password Confirm",
+    "verificationCode": "Verification code",
     "verificationCodePlaceholder": "Enter verification code",
     "sendVerificationCode": "Send code",
     "checkVerificationCode": "Check",

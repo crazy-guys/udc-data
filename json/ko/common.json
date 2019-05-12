@@ -38,6 +38,7 @@
     "password": "비밀번호",
     "passwordPlaceholder": "비밀번호 (주문내역 확인용 / 6자 이상)",
     "passwordConfirm": "비밀번호 재확인",
+    "verificationCode": "인증번호",
     "verificationCodePlaceholder": "인증번호",
     "sendVerificationCode": "인증번호받기",
     "checkVerificationCode": "확인",

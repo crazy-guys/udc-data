@@ -11,6 +11,7 @@
     "checkPhoneNumberDupFirst": "Check phone number duplication first.",
     "phoneNumberVerificationRequired": "Phone Number Verification Required.",
     "passwordNotMatched": "The password does not match.",
-    "invalidMinLength": "Minimum length is {{length}} characters",
-    "invalidMaxLength": "Maximum length is {{length}} characters"
+    "invalidPasswordLength": "Passwords must be at least 6 characters.",
+    "invalidMinLength": "Minimum length is {{length}} characters.",
+    "invalidMaxLength": "Maximum length is {{length}} characters."
 }

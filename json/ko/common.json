@@ -85,5 +85,6 @@
     "findPassword": "비밀번호 찾기",
     "ticketCount": "{{count}}장",
     "modify": "수정",
-    "close": "닫기"
+    "close": "닫기",
+    "popupCloseMessage": "오늘 하루 이 창을 열지 않음"
 }

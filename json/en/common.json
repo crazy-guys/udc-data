@@ -86,5 +86,6 @@
     "findPassword": "Forgot your Password?",
     "ticketCount": "{{count}}ea",
     "modify": "Modify",
-    "close": "Close"
+    "close": "Close",
+    "popupCloseMessage": "Don’t show this message for 24 hrs"
 }

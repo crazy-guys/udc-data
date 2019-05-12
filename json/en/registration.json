@@ -8,21 +8,21 @@
             "purchaseNotice": {
                 "title": "Purchase Notice",
                 "description": [
-                    "The conference tickets are sold on a first-come, first-served basis(based on the payment date) and can sell out early.",
-                    "Please complete your payment before the deadline to receive a discount.",
-                    "Up to 10 participants can be registered at a time.",
-                    "Reserved tickets will not be shipped; they will be issued onsite on the first day of the conference.",
-                    "Any use of false personal information can result in cancellation.",
-                    "Credit cards are only allow."
+                    "· The conference tickets are sold on a first-come, first-served basis(based on the payment date) and can sell out early.",
+                    "· Please complete your payment before the deadline to receive a discount.",
+                    "· Up to 10 participants can be registered at a time.",
+                    "· Reserved tickets will not be shipped; they will be issued onsite on the first day of the conference.",
+                    "· Any use of false personal information can result in cancellation.",
+                    "· Credit cards are only allow."
                 ]
             },
             "refundPolicy": {
                 "title": "Cancellation and Refund Policy",
                 "description": [
-                    "You can request cancellation and a refund via email to the Secretariat. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">Send Email</a>",
-                    "If you request a refund after Sep. 3 (Tue), please understand that the refund will be processed after Sep. 16",
-                    "(Mon) for administrative reasons. (Processed in an email reception order)",
-                    "Refund Regulations by Period",
+                    "· You can request cancellation and a refund via email to the Secretariat. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">Send Email</a>",
+                    "· If you request a refund after Sep. 3 (Tue), please understand that the refund will be processed after Sep. 16",
+                    "· (Mon) for administrative reasons. (Processed in an email reception order)",
+                    "· Refund Regulations by Period",
                     "<span class=\"darkish-blue-color\">- May 13 ~ Aug 9 (Registration due date) :</span> <span class=\"cerulean-blue-color\">100% refund</span>",
                     "<span class=\"darkish-blue-color\">- Aug 24 ~ Sep. 3 (A day before the event) :</span> <span class=\"cerulean-blue-color\">80% refund</span>",
                     "<span class=\"darkish-blue-color\">- From Sep. 4 (For the duration of the event) :</span> <span class=\"cerulean-blue-color\">No refund</span>"

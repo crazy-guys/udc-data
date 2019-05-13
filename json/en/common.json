@@ -89,5 +89,6 @@
     "modify": "Modify",
     "close": "Close",
     "popupCloseMessage": "Don’t show this message for 24 hrs",
-    "unsubscribeConfirm": "Are you sure to unsubscribe?"
+    "unsubscribeConfirm": "Are you sure to unsubscribe?",
+    "unsubscribeComplete": "Unsubscribe completed."
 }

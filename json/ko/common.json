@@ -50,7 +50,7 @@
     "signIn": "확인",
     "selectCountry": "국적 선택",
     "phoneNumber": "휴대폰 번호",
-    "phoneNumberPlaceholder": "휴대폰 번호 (‘-’ 하이픈 없이 입력하세요)",
+    "phoneNumberPlaceholder": "휴대폰 번호<span class\"pc-only\"> (‘-’ 하이픈 없이 입력하세요)</span>",
     "countryNumber": "국가 번호",
     "email": "이메일",
     "companyKo": "국문 소속명",

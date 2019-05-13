@@ -88,5 +88,6 @@
     "ticketCount": "{{count}}ea",
     "modify": "Modify",
     "close": "Close",
-    "popupCloseMessage": "Don’t show this message for 24 hrs"
+    "popupCloseMessage": "Don’t show this message for 24 hrs",
+    "unsubscribeConfirm": "Are you sure to unsubscribe?"
 }

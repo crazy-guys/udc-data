@@ -88,5 +88,6 @@
     "ticketCount": "{{count}}장",
     "modify": "수정",
     "close": "닫기",
-    "popupCloseMessage": "오늘 하루 이 창을 열지 않음"
+    "popupCloseMessage": "오늘 하루 이 창을 열지 않음",
+    "unsubscribeConfirm": "수신거부하시겠습니까?"
 }

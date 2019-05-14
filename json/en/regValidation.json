@@ -1,7 +1,7 @@
 {
     "onlyNumberAllowed": "Please enter only numbers.",
     "isNotValid": "Sorry, this {{key}} is not valid.",
-    "notValidEmail": "Sorry, this address  is not valid.",
+    "notValidEmail": "Please enter correct E-mail address",
     "passwordNotEquals": "Password not equals.",
     "invalidPromotionCode": "Sorry, this code is not valid.",
     "onlyEngAllowed": "Please enter only alphabets.",

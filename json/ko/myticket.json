@@ -29,5 +29,7 @@
   "goToPay": "결제하기",
   "receipt": "영수증",
   "detail": "상세보기",
-  "payWaitingEmpty": "결제 대기중인 티켓이 없습니다."
+  "payWaitingEmpty": "결제 대기중인 티켓이 없습니다.",
+  "selectOrders": "결제할 주문을 선택해주세요.",
+  "selectPayMethod": "결제 수단을 선택해주세요."
 }

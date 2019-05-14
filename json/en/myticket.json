@@ -29,5 +29,7 @@
   "goToPay": "Go to Pay",
   "receipt": "Receipt",
   "detail": "Detail",
-  "payWaitingEmpty": "Empty"
+  "payWaitingEmpty": "Empty",
+  "selectOrders": "Select orders.",
+  "selectPayMethod": "Select payment method."
 }

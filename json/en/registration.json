@@ -4,7 +4,7 @@
         "title": "1. Select Ticket Type",
         "tickets": "<span class=\"Text-Style-2\">UDC 2019 TICKET</span>",
         "openButtonText": "Begins {{date}}",
-        "openButtonDateFormat": "MMM DD",
+        "openButtonDateFormat": "MMM. DD",
         "note": {
             "title": "Please Note:",
             "purchaseNotice": {

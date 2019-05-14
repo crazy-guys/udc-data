@@ -24,11 +24,11 @@
     },
     "funnel": {
         "label": "Route",
-        "dunamu": "Ubpit/Dunamu Site",
-        "online_ad": "Upbit SNS Channel/ Ubpit Site",
+        "dunamu": "Upbit/Dunamu Site",
+        "online_ad": "Upbit SNS Channel/ Upbit Site",
         "news": "Publication",
         "viral": "Recommendation",
-        "community": "Web community",
+        "community": "Online community",
         "etc": "Others"
     },
     "firstName": "First Name",

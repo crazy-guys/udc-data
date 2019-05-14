@@ -1,8 +1,10 @@
 {
     "step1": {
         "myTicketLinkText": "My Ticket",
-        "title": "1. Choose<br/>a ticket type",
+        "title": "1. Select Ticket Type",
         "tickets": "<span class=\"Text-Style-2\">UDC 2019 TICKET</span>",
+        "openButtonText": "Begins {{date}}",
+        "openButtonDateFormat": "MMM DD",
         "note": {
             "title": "Please be noted",
             "purchaseNotice": {
@@ -31,16 +33,16 @@
         }
     },
     "step2": {
-        "title": "2. Conference Policy<br/>Agreement",
+        "title": "2. Terms and<br/>Conditions",
         "totalAgreeCheckboxText": "Agree to UDC2019’s Privacy Policy and receive events and promotional emails (Option).",
         "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es).<br/>You must agree with the terms of these agreements to continue.",
         "checkbox2Text": "Receive promotional e-mails <span class=\"optional\">(Option)</span><p class=\"subtext\">* Please agree with the terms of Promotional e-mails agreement to receive current information about UDC 2019</p>",
         "disagree": "Disagree",
         "next": "Next",
-        "portraitAgreement": ""
+        "portraitAgreement": "※ The organizer has the right to use photos and videos taken during the event publicly for different marketing and promotion purposes e.g. website. The organizer will make efforts to do so in a way that is respectful of the subjects’ wishes and privacy."
     },
     "step3": {
-        "title": "3. Enter personal<br/>information",
+        "title": "3. Attendee<br/>Information",
         "addTicket": "Enter the participant information",
         "buyerInfo": "Customer's Information",
         "participant": "Participant Information",
@@ -55,38 +57,38 @@
             "description": [
                 "Please remember your registration e-mail and password as they are required when you modify your registration information.",
                 "Up to 10 participants can be registered at a time.",
-                "We use participant information to issue your Name Tag. If buyer enter other participant’s information instead, please enter the correct information.",
-                "When the payment process is completed, we send a registration confirm mail. Please contact UDC secretariat if you have not received your registration confirm mail.",
+                "We use participant information to issue your Name Tag. If buyer enter other participant’s information instead,<br/>please enter the correct information.",
+                "When the payment process is completed, we send a registration confirm mail. Please contact UDC secretariat<br/>if you have not received your registration confirm mail.",
                 "UDC Secretariat(E-mail: udc_reg@upbit.com)"
             ]
         }
     },
     "step4": {
-        "title": "4. Make<br/>a payment"
+        "title": "4. Checkout"
     },
     "step5": {
-        "title": "5. Check purchase<br/>details"
+        "title": "5. Registration<br/>Details"
     },
     "tickets": {
         "1": {
             "title": "BLIND",
             "name": "Blind",
-            "description": "Grab <1>65%</1> Blind<br/>Discount!"
+            "description": "Save <1>65%</1><br/>"
         },
         "2": {
             "title": "EARLY BIRD",
             "name": "Early Bird",
-            "description": "Grab <1>50%</1> Early Bird<br/>Discount!"
+            "description": "Save <1>65%</1><br/>"
         },
         "3": {
             "title": "STANDARD",
             "name": "Standard",
-            "description": "Grab <1>25%</1> Discount!"
+            "description": "Save <1>25%</1><br/>"
         },
         "4": {
             "title": "STUDENTS",
             "name": "Students",
-            "description": "<1>Discounts available for first 100</1> students<br/>Please be sure to attach a copy of your<br/>student ID card or a certificate indicating<br/>that you are a student"
+            "description": "Special rates available to first 100 students<br/>Please be sure to attach a copy of your<br/>student ID card or certificate when<br/>registering"
         },
         "5": {
             "title": "ONSITE",
@@ -96,17 +98,13 @@
         "includes": {
             "title": "TICKET INCLUDES",
             "description": [
-                "Access to all programs for the",
-                "duration of the event",
-                "Access to Networking Lounge and",
-                "onsite events ",
-                "Lunch  for 2days",
-                "Coffee break service ",
-                "Networking Dinner(Official Dinner)",
-                "ticket",
-                "Free Wi-Fi",
-                "Souvenir",
-                "Access to  Exhibition"
+                "Full access to all UDC 2019 programs, including:",
+                "All speaker presentations",
+                "Access to networking lounge, exhibition zone, and<br/>other onsite events",
+                "Lunch and coffee break service on September 4 & 5",
+                "Networking dinner on September 4",
+                "Souvenirs",
+                "Free Wi-Fi"
             ]
         }
     },

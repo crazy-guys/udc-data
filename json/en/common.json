@@ -3,7 +3,7 @@
     "save": "Save",
     "language": "English",
     "language3Alpha": "ENG",
-    "dateFormat": "MMM. DD (ddd)",
+    "dateFormat": "MMM DD (ddd)",
     "priceFormat": "<span class=\"usd\">USD</span> {{price}}",
     "delete": "Delete",
     "ticket": "Ticket",

@@ -4,7 +4,7 @@
         "title": "1. Select Ticket Type",
         "tickets": "<span class=\"Text-Style-2\">UDC 2019 TICKET</span>",
         "openButtonText": "Begins {{date}}",
-        "openButtonDateFormat": "MMM. DD",
+        "openButtonDateFormat": "MMM DD",
         "note": {
             "title": "Please Note:",
             "purchaseNotice": {
@@ -21,7 +21,7 @@
             "refundPolicy": {
                 "title": "Cancellation and Refund Policy",
                 "description": [
-                    "For all cancellation and refund requests, please contact the UDC Secretariat via email. Send Email",
+                    "For all cancellation and refund requests, please contact the UDC Secretariat via email. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">Send Email</a>",
                     "Any refund requests submitted after Sep. 3 (Tue) will be processed after Sep. 16 (Mon)<br/>(Refund requests will be processed in order of submission)",
                     "Refund Conditions",
                     "<span class=\"darkish-blue-color\">- May. 13 ~ Aug. 9:</span> <span class=\"cerulean-blue-color\">100% refund</span>",
@@ -100,7 +100,7 @@
                 "Full access to all UDC 2019 programs, including:",
                 "All speaker presentations",
                 "Access to networking lounge, exhibition zone, and<br/>other onsite events",
-                "Lunch and coffee break service on Sept. 4 & 5",
+                "Lunch and coffee break service on Sept 4 & 5",
                 "Networking dinner on September 4",
                 "Souvenirs",
                 "Free Wi-Fi"

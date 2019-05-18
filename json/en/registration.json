@@ -111,5 +111,7 @@
         "creditCard": "Credit Cards",
         "bank": "bank",
         "kakaopay": "Kakao Pay"
-    }
+    },
+    "payAlert": "※ In case of using VISA or Master Card, please click the ‘Other Card’ when choosing the type of card.",
+    "englishMobileAlert": "Payment is available on PC only."
 }

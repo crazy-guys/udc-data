@@ -118,5 +118,6 @@
         "※ All UDC 2019 ticket prices are fixed in USD and KRW. However, additional fees may be charged by credit card processors"
     ],
     "englishMobileAlert": "Payment is available on PC only.",
-    "englishBillNote": "If you need a receipt for the payment, please contact UDC secretariat.<br/><a href=\"mailto:udc_reg@upbit.com\">udc_reg@upbit.com</a>"
+    "englishBillNote": "If you need a receipt for the payment, please contact UDC secretariat.<br/><a href=\"mailto:udc_reg@upbit.com\">udc_reg@upbit.com</a>",
+    "certificationCodeNote": "Delivery of verification code may be delayed due to network issues."
 }

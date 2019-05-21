@@ -117,5 +117,8 @@
         "bank": "실시간 계좌이체",
         "kakaopay": "카카오페이"
     },
-    "payAlert": ""
+    "payAlert": [],
+    "englishMobileAlert": "",
+    "englishBillNote": "",
+    "certificationCodeNote": ""
 }

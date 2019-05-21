@@ -10,12 +10,13 @@
             "purchaseNotice": {
                 "title": "Ticket Conditions",
                 "description": [
-                    "Conference tickets are sold on a first-come, first-served basis (based on the payment date) and may sell out early.",
+                    "Conference tickets are sold on a first-come, first-serve basis (based on the payment date) and may sell out early.",
                     "Payment must be completed by specified deadline for special rates to apply.",
                     "Up to 10 participants can be registered at once.",
                     "All tickets will be issued onsite on September 4, the first day of the conference.",
                     "Registering with false information can result in termination of registration.",
-                    "Credit cards payments only"
+                    "Credit cards payments only",
+                    "Ticket prices are subject to real-time exchange rates."
                 ]
             },
             "refundPolicy": {
@@ -43,22 +44,22 @@
     "step3": {
         "title": "3. Attendee<br/>Information",
         "addTicket": "Enter the participant information",
-        "buyerInfo": "Customer's Information",
-        "participant": "Participant Information",
-        "sameWithBuyer": "Same as the Customer's information.",
+        "buyerInfo": "Customer Information",
+        "participant": "Attendee Information",
+        "sameWithBuyer": "Same as the Customer information.",
         "noteStudent": "※Please be sure to attach a copy of your student ID card or a certificate indicating  that you are a student.",
-        "buyMoreTickets": "Buy More Tickets",
+        "buyMoreTickets": "Purchase Additional Tickets",
         "alreadyRegisteredPhoneNumber": "This Phone Number is already registered.",
         "alreadyRegisteredPhoneNumber_m": "This Phone Number<br>is already registered.",
         "checkMyTicket": "Go to My Ticket",
         "note": {
             "title": "<span>UDC 2019</span> <1>Blind Ticket purchase</1>",
             "description": [
-                "Please remember your registration e-mail and password as they are required when you modify your registration information.",
-                "Up to 10 participants can be registered at a time.",
-                "We use participant information to issue your Name Tag. If buyer enter other participant’s information instead,<br/>please enter the correct information.",
-                "When the payment process is completed, we send a registration confirm mail. Please contact UDC secretariat<br/>if you have not received your registration confirm mail.",
-                "UDC Secretariat(E-mail: udc_reg@upbit.com)"
+                "Your registration e-mail and password are required to modify your registration information.",
+                "Up to 10 participants can be registered at once.",
+                "Please make sure the correct participant information is provided to ensure correct registration and name badges.",
+                "Once the payment process is complete, a confirmation email will be sent to the provided email address. Please contact the UDC Secretariat if you have not received an email.",
+                "UDC Secretariat email: udc_reg@upbit.com"
             ]
         }
     },
@@ -108,10 +109,14 @@
         }
     },
     "payMethods": {
-        "creditCard": "Credit Cards",
+        "creditCard": "Credit Card",
         "bank": "bank",
         "kakaopay": "Kakao Pay"
     },
-    "payAlert": "※ In case of using VISA or Master Card, please click the ‘Other Card’ when choosing the type of card.",
-    "englishMobileAlert": "Payment is available on PC only."
+    "payAlert": [
+        "※ For Visa and MasterCard users, please select ‘Other Card’",
+        "※ All UDC 2019 ticket prices are fixed in USD and KRW. However, additional fees may be charged by credit card processors"
+    ],
+    "englishMobileAlert": "Payment is available on PC only.",
+    "englishBillNote": "If you need a receipt for the payment, please contact UDC secretariat.<br/><a href=\"mailto:udc_reg@upbit.com\">udc_reg@upbit.com</a>"
 }

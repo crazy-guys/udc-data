@@ -91,5 +91,12 @@
     "popupCloseMessage": "Don’t show this message for 24 hrs",
     "unsubscribeConfirm": "Are you sure to unsubscribe?",
     "unsubscribeComplete": "Unsubscribe completed.",
-    "unsubscribeFailed": "Unsubscribe failed."
+    "unsubscribeFailed": "Unsubscribe failed.",
+    "registrationBottomBar": {
+        "boldText": "HURRY UP!",
+        "spanText": "Just get 'Early bird Ticket' from 5. 27 to 6. 23",
+        "buttons": [
+            "registration"
+        ]
+    }
 }

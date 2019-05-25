@@ -18,6 +18,7 @@
 	"orderErrorOccurred": "Error occurred.",
 	"orderDupicateUsername": "Additional purchase tickets have duplicate phone numbers.",
 	
+	"notValidCoupon": "Promotional code is not valid.",
 	"couponExpired": "This coupon has expired.",
 	
 	"mail.certificationNumberSubject": "[UDC] Certification number"

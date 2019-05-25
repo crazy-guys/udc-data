@@ -18,7 +18,7 @@
     ]
   },
   "registrationComplete": {
-    "title": "UDC 2019 Ticket Registration",
+    "title": "UDC 2019 Ticket Registration is completed",
     "message": "Registration confirmation email <br class=\"mobile-only\"/>has been sent.<br />You can check your registration information<br class=\"mobile-only\"/> at My Ticket.",
     "link": {
       "title": "Go to My Ticket",

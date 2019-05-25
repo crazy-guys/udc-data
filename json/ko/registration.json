@@ -5,6 +5,7 @@
         "tickets": "<span class=\"Text-Style-2\">UDC 2019</span> <span class=\"text-style-1\"> 티켓 구매하기</span>",
         "openButtonText": "{{date}} Open",
         "openButtonDateFormat": "YYYY. MM. DD",
+        "closeButtonText": "Closed",
         "note": {
             "title": "꼭 알아두세요!",
             "purchaseNotice": {
@@ -25,7 +26,7 @@
                     "행사 운영 준비로 인해 9월 3일(화) 이후 환불 처리는 9월 16일(월)부터 처리됩니다.  (이메일 접수 순)",
                     "기간 별 환불 규정",
                     "<span class=\"darkish-blue-color\">- 5월 13일 ~ 8월 9일까지(사전등록 마감일) :</span> <span class=\"cerulean-blue-color\">100% 환불</span>",
-                    "<span class=\"darkish-blue-color\">- 8월 24일 ~ 9월 3일까지(행사 1일 전) </span>: <span class=\"cerulean-blue-color\">80% 환불</span>",
+                    "<span class=\"darkish-blue-color\">- 8월 10일 ~ 9월 3일까지(행사 1일 전) </span>: <span class=\"cerulean-blue-color\">80% 환불</span>",
                     "<span class=\"darkish-blue-color\">- 9월 4일부터</span> <span class=\"cerulean-blue-color\">: 환불 불가</span>",
                     "당일 취소가 아닌 경우, 결제사에 따라 환불 처리 기간이 다를 수 있습니다. ",
                     "해당 카드사 영업일 기준으로 2~5일이 지났음에도 취소 및 환불이 되지 않았을 경우에는 해당 카드사에 문의해주시기 바랍니다. "
@@ -37,7 +38,7 @@
         "title": "2. 약관동의",
         "totalAgreeCheckboxText": "이용약관, 개인정보 수집 및 이용에 모두 동의합니다.",
         "checkbox1Text": "<span class=\"required\">(필수)</span> 개인정보 수집 및 이용에 대한 안내",
-        "checkbox2Text": "<span class=\"option\">(선택)</span> 이벤트 및 프로모션 알림 메일 수신 <span class=\"tip\">*UDC 행사정보 안내를 받으시려면 동의해주시기 바랍니다.</span>",
+        "checkbox2Text": "<span class=\"optional\">(선택)</span> 이벤트 및 프로모션 알림 메일 수신 <span class=\"tip\">*UDC 행사정보 안내를 받으시려면 동의해주시기 바랍니다.</span>",
         "disagree": "동의 하지 않음",
         "next": "다음으로",
         "portraitAgreement": "※ 고객님은 개인정보 수집 및 이용에 대한 동의를 거부할 권리가 있으며, 동의를 거부할 경우 받는 별도의 불이익은 없습니다. 단, 필수동의 사항에 동의를 거부할 경우, 서비스 이용이 불가능하거나, 서비스 이용 목적에 따른 서비스 제공에 제한이 따르게 됩니다.<br/><br/>※ 행사 중 촬영된 사진과 동영상은 UDC 홍보와 자료배포에 활용될 수 있으며, 배포 시에는 참가자의 초상권이 침해되지 않도록 최선의 노력을 다하겠습니다."

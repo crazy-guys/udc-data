@@ -45,6 +45,7 @@
     "sendVerificationCode": "Send code",
     "checkVerificationCode": "Check",
     "checkEmailDup": "Confirm",
+    "certCodeSended": "Sended",
     "country": "Contry",
     "confirm": "Confirm",
     "confirmed": "Confirm",

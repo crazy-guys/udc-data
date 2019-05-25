@@ -44,6 +44,7 @@
     "sendVerificationCode": "인증번호받기",
     "checkVerificationCode": "확인",
     "checkEmailDup": "중복 확인",
+    "certCodeSended": "발송완료",
     "country": "국적",
     "confirm": "확인",
     "confirmed": "확인완료",

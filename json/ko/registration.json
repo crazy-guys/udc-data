@@ -36,11 +36,11 @@
     "step2": {
         "title": "2. 약관동의",
         "totalAgreeCheckboxText": "이용약관, 개인정보 수집 및 이용에 모두 동의합니다.",
-        "checkbox1Text": "개인정보 수집 및 이용에 대한 안내 <span class=\"required\">(필수)</span>",
-        "checkbox2Text": "이벤트 및 프로모션 알림 메일 수신 <span class=\"option\">(선택)</span><span class=\"tip\">*UDC 행사정보 안내를 받으시려면 동의해주시기 바랍니다.</span>",
+        "checkbox1Text": "<span class=\"required\">(필수)</span> 개인정보 수집 및 이용에 대한 안내",
+        "checkbox2Text": "<span class=\"option\">(선택)</span> 이벤트 및 프로모션 알림 메일 수신 <span class=\"tip\">*UDC 행사정보 안내를 받으시려면 동의해주시기 바랍니다.</span>",
         "disagree": "동의 하지 않음",
         "next": "다음으로",
-        "portraitAgreement": "※ 행사 중 촬영된 사진과 동영상은 UDC 홍보와 자료배포에 활용될 수 있으며, 배포 시에는 참가자의 초상권이 침해되지 않도록 최선의 노력을 다하겠습니다."
+        "portraitAgreement": "※ 고객님은 개인정보 수집 및 이용에 대한 동의를 거부할 권리가 있으며, 동의를 거부할 경우 받는 별도의 불이익은 없습니다. 단, 필수동의 사항에 동의를 거부할 경우, 서비스 이용이 불가능하거나, 서비스 이용 목적에 따른 서비스 제공에 제한이 따르게 됩니다.<br/><br/>※ 행사 중 촬영된 사진과 동영상은 UDC 홍보와 자료배포에 활용될 수 있으며, 배포 시에는 참가자의 초상권이 침해되지 않도록 최선의 노력을 다하겠습니다."
     },
     "step3": {
         "title": "3. 정보입력",
@@ -54,7 +54,7 @@
         "alreadyRegisteredPhoneNumber_m": "해당 핸드폰 번호는<br>이미 등록되어 있습니다.",
         "checkMyTicket": "나의 티켓 정보 확인",
         "note": {
-            "title": "<span>UDC 2019</span> <1>블라인드 티켓 구매</1>",
+            "title": "<span>UDC 2019</span> <1>티켓 구매</1>",
             "description": [
                 "구매 시 입력한 핸드폰 번호와 비밀번호를 기억해주세요. 신청 내역 확인 및 수정에 필요합니다.",
                 "참가자는 한 번에 최대 10명까지 등록 가능합니다. 11명 이상 등록을 원하실 경우 추가 티켓 구매를 이용해 주시기 바랍니다.",

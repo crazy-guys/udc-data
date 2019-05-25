@@ -9,8 +9,10 @@
     "ticket": "Ticket",
     "viewMore": "View More",
     "attendedPastEvent": {
-        "label": " UDC 2018 attended",
-        "checkboxLabel": "Yes"
+        "label": "UDC 2018 attended",
+        "checkboxLabel": "Yes",
+        "udc2018": "UDC 2018",
+        "udc2019Exhibition": "UDC 2019 Exhibition"
     },
     "typeContent": "Please fill in the blank.",
     "occupation": {
@@ -91,5 +93,12 @@
     "popupCloseMessage": "Don’t show this message for 24 hrs",
     "unsubscribeConfirm": "Are you sure to unsubscribe?",
     "unsubscribeComplete": "Unsubscribe completed.",
-    "unsubscribeFailed": "Unsubscribe failed."
+    "unsubscribeFailed": "Unsubscribe failed.",
+    "registrationBottomBar": {
+        "boldText": "HURRY UP!",
+        "spanText": "Just get 'Early bird Ticket' from 5. 27 to 6. 23",
+        "buttons": [
+            "registration"
+        ]
+    }
 }

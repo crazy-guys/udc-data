@@ -3,8 +3,8 @@
     "isNotValid": "유효한 {{key, josa-i-ga}} 아닙니다.",
     "notValidEmail": "유효한 주소가 아닙니다.",
     "passwordNotEquals": "패스워드가 일치하지 않습니다.",
-    "invalidPromotionCode": "유효한 코드가 아닙니다.",
-    "onlyKorAllowed": "국문만 입력해주세요.",    
+    "onlyCouponStringAllowed": "유효한 코드가 아닙니다.",
+    "onlyKorAllowed": "국문만 입력해주세요.",
     "onlyEngAllowed": "영문만 입력해주세요.",
     "requiredField": "필수 입력 항목입니다.",
     "isRequiredField": "{{key, josa-eul-rul}} 입력하여 주십시오.",
@@ -15,5 +15,4 @@
     "invalidPasswordLength": "6자 이상의 비밀번호를 입력하여 주십시오",
     "invalidMinLength": "{{length}}자 이상 입력해주세요.",
     "invalidMaxLength": "{{length}}자 이하 입력해주세요."
-  
 }

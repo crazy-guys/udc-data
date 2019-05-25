@@ -3,7 +3,7 @@
     "isNotValid": "Sorry, this {{key}} is not valid.",
     "notValidEmail": "Please enter correct E-mail address",
     "passwordNotEquals": "Password not equals.",
-    "invalidPromotionCode": "Sorry, this code is not valid.",
+    "onlyCouponStringAllowed": "Sorry, this code is not valid.",
     "onlyEngAllowed": "Please enter only alphabets.",
     "requiredField": "Required field.",
     "isRequiredField": "{{key}} is required field.",

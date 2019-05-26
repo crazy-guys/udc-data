@@ -120,6 +120,6 @@
     },
     "payAlert": [],
     "englishMobileAlert": "",
-    "englishBillNote": "",
+    "billNote": "※ 결제 영수증이 필요하신 경우 UDC 준비사무국으로 연락하여 주십시오. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">이메일 보내기</a>",
     "certificationCodeNote": ""
 }

@@ -120,6 +120,6 @@
         "※ An automatic notice in Korean will be emailed to you by the payment system provider confirming the purchase. This email can be disregarded."
     ],
     "englishMobileAlert": "Payment is available on PC only.",
-    "englishBillNote": "※ If you need a receipt for the payment, please contact UDC secretariat. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">Send Email</a>",
+    "billNote": "※ If you need a receipt for the payment, please contact UDC secretariat. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">Send Email</a>",
     "certificationCodeNote": "*Delivery of verification code may be delayed due to network issues."
 }

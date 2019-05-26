@@ -8,6 +8,7 @@
 	"invalidCertNumber": "The certification number is invalid.",
 	"noData": "No data.",
 	"emptyFilename": "Empty filename",
+	"saleNotFound": "Item not found.",
 	
 	"orderAleardyPaid": "This order has already been paid.",
 	"orderNotPaid": "This is a non-payment order.",

@@ -22,7 +22,7 @@
     "message": "Registration confirmation email <br class=\"mobile-only\"/>has been sent.<br />You can check your registration information<br class=\"mobile-only\"/> at My Ticket.",
     "link": {
       "title": "Go to My Ticket",
-      "path": "/myticket"
+      "path": "/myticket?check_login=true"
     },
     "buttons": [
       {

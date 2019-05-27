@@ -6,7 +6,10 @@
         "linkedin"
     ],
     "allowedSns": [
-        "youtube"
+        "youtube",
+        "twitter",
+        "medium",
+        "linkedin"
     ],
     "snsAlert": "Official UDC 2019 social media channels will be online shortly. Check back soon.",
     "facebook": "https://www.facebook.com/UDC-Upbit-Developer-Conference-2188588898123258/?modal=admin_todo_tour",

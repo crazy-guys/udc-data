@@ -5,7 +5,10 @@
         "instagram"
     ],
     "allowedSns": [
-        "youtube"
+        "youtube",
+        "youtube",
+        "facebook",
+        "instagram"
     ],
     "snsAlert": "준비중입니다.",
     "dunamuCorp": "두나무(주)",

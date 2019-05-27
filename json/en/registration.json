@@ -35,7 +35,7 @@
     },
     "step2": {
         "title": "2. Terms and<br/>Conditions",
-        "totalAgreeCheckboxText": "Agree to UDC 2019’s Privacy Policy and receive events and promotional emails (Option).",
+        "totalAgreeCheckboxText": "Agree to UDC 2019’s Privacy Policy and receive events and promotional emails.",
         "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es).<br/>You must agree with the terms of these agreements to continue.",
         "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails <p class=\"subtext\">* Please agree with the terms of Promotional e-mails agreement to receive current information about UDC 2019</p>",
         "disagree": "Disagree",

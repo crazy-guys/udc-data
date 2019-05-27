@@ -25,7 +25,7 @@
         "etc": "Others"
     },
     "funnel": {
-        "label": "How did you<br/>hear about UDC<br/>2019",
+        "label": "How did you <br class=\"pc-only\"/>hear about UDC <br class=\"pc-only\"/>2019",
         "dunamu": "Upbit/Dunamu Site",
         "online_ad": "Upbit/Dunamu<br/>Social Media",
         "news": "Media Reports",

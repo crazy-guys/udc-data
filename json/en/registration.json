@@ -80,21 +80,25 @@
         "2": {
             "title": "EARLY BIRD",
             "name": "Early Bird",
+            "note": "",
             "description": "Save <1>50%</1><br/>"
         },
         "3": {
             "title": "STANDARD",
             "name": "Standard",
+            "note": "",
             "description": "Save <1>25%</1><br/>"
         },
         "4": {
             "title": "STUDENTS",
             "name": "Students",
+            "note": "",
             "description": "Special rates available to first 100 students<br/>Please be sure to attach a copy of your<br/>student ID card or certificate when<br/>registering"
         },
         "5": {
             "title": "ONSITE",
             "name": "OnSite",
+            "note": "",
             "description": "<1>Onsite registration</1><br/>available."
         },
         "includes": {

@@ -1,5 +1,7 @@
 {
     "tab1Title": "전체 프로그램",
     "tab2Title": "일자 별 프로그램",
-    "speakerScheduleGroup": "전문가 세션"
+    "speakerScheduleGroup": "전문가 세션",
+    "tab2dateTab1Title": "DAY 1 - 9. 4 (수)",
+    "tab2dateTab2Title": "DAY 2 - 9. 5 (목)"
 }

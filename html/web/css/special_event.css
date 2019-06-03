@@ -67,7 +67,7 @@ section.page-sec.special-event {
 
 }
 
-section.ko.page-sec.special-event { max-width:1170px;padding:0; }
+section.page-sec.special-event { max-width:1170px;padding:0; }
 
 section.page-sec.special-event .tab-content-header, 
 section.page-sec.special-event .tab-content-body,
@@ -80,7 +80,7 @@ section.page-sec.special-event .btnW {
 
 .tab-content:lang(en) { font-family:'Rajdhani' !important; }
 
-section.ko.page-sec.special-event > .tab-content { padding:0 20px; }
+section.page-sec.special-event > .tab-content { padding:0 20px; }
 
 section.page-sec.special-event .tab-content-header { padding:0 0 1em 0;border-bottom:1px solid #e9e9e9; }
 

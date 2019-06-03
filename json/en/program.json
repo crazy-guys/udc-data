@@ -5,5 +5,5 @@
     "speakerScheduleGroup": "EXPERT SESSION",
     "tab2dateTab1Title": "DAY 1 - Sep. 4 <span class=\"date\">(Wed)</span>",
     "tab2dateTab2Title": "DAY 2 - Sep. 5 <span class=\"date\">(Thu)</span>",
-    "sessionType": "Session Type"
+    "sessionType": "<span class=\"pc-only\">Session Type</span><span class=\"mobile-only\">Sessions</span>"
 }

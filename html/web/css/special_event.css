@@ -250,8 +250,8 @@ section.page-sec.special-event .tab-content-body p.caution em { display:block;pa
 section.page-sec.special-event .tab-content-body p.sub { color:#999999; }
 section.page-sec.special-event .tab-content-body p.greyB { width:100%;margin:0;padding:19px 30px 16px 30px;background:#f8f9fa;line-height:2.5em;box-sizing:border-box; }
 
-section.page-sec.special-event .stepB { width:100%;height:213px;background:#f8f9fa url('../images/img_step_pc.png') 0 0 no-repeat;background-size:cover; }
-section.page-sec.special-event .stepB:lang(en) { background-image:url('../images/img_step_pc_en.png'); }
+section.page-sec.special-event .stepB { width:100%;height:213px;background:#f8f9fa url('https://udc-file.s3.ap-northeast-2.amazonaws.com/images/img_step_pc.png') 0 0 no-repeat;background-size:cover; }
+section.page-sec.special-event .stepB:lang(en) { background-image:url('https://udc-file.s3.ap-northeast-2.amazonaws.com/images/img_step_pc_en.png'); }
 section.page-sec.special-event .grayB .stepB { display:block;width:100%;height:190px;margin-top:20px;background:#ffffff url('https://udc-file.s3.ap-northeast-2.amazonaws.com/images/img_hack_step_ko.png') 0 0 no-repeat;background-size:cover; }
 section.page-sec.special-event .stepB img { display:none; }
 section.page-sec.special-event .stepB ul { display:none; }

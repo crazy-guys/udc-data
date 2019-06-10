@@ -41,7 +41,7 @@
             ]
         },
         "hackerton": {
-            "title": "<small>루니버스와 함께하는 </small> UDC <span class=\"ko\">해커톤</span>",
+            "title": "<small><span class=\"ko\">루니버스와 함께하는</span> </small> UDC <span class=\"ko\">해커톤</span>",
             "desc1": "<div class=\"pc-only\">블록체인 서비스 플랫폼 루니버스를 활용하여<br/>블록체인 Dapp 개발에 도전하세요!</div><div class=\"mobile-only\">블록체인 서비스 플랫폼 루니버스를 활용하여<br/>블록체인 DApp 개발에 도전하세요!</div>",
             "desc2": [
                 "신청 기간 :  7월 1일(월) - 7월 21일(일)",
@@ -51,14 +51,15 @@
             ]
         },
         "freeLecture": {
-            "title": "<small>UDC 2019 개최 기념 </small> <span class=\"ko\">블록체인 무료 강좌</span>",
+            "title": "<small>UDC 2019 <span class=\"ko\">개최 기념</span> </small> <span class=\"ko\">블록체인 무료 강좌</span>",
             "desc1": "<div class=\"pc-only\">블록체인에 대한 궁금증을 해소할 수 있는<br/>일반인 대상 무료강좌가 열립니다.</div><div class=\"mobile-only\">블록체인에 대한 궁금증을 해소할 수 있는<br/>일반인 대상 무료강좌가 열립니다.</div>",
             "desc2": [
                 "신청 기간 :  7월 22일(월) - 7월 31일(수)",
                 "강좌 장소 :  두나무 2층 업비트 라운지(강남역 1번 출구)",
                 "강좌 기간 :  8월 6일(화), 8월 13일(화), 8월 20일(화) ",
                 "강좌 시간 :  14:00~18:00"
-            ]
+            ],
+            "link": ""
         }
     }
 }

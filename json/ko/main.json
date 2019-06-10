@@ -14,5 +14,35 @@
         "companiesCount": "210",
         "sessions": "Sessions",
         "sessionsCount": "35"
+    },
+    "program": {
+        "conference": {
+            "title": "2019 컨퍼런스",
+            "desc1": "<div class=\"mobile-only\">세계 최고 수준의 블록체인 개발자들이<br/>각 프로젝트들을 통해 서비스들을 현장에서<br/>직접 만나보실 수 있습니다.</div><div class=\"pc-only\">세계 최고 수준의 블록체인 개발자들이 각 프로젝트들을 통해<br/>어떻게 현실의 문제를 해결하며 편리한 ‘서비스’를 준비하고 있는지<br/>직접 만나보실 수 있습니다.</div>",
+            "desc2": [
+                "기간 :  9월 4일(수) 10:00~17:20 <span className=\"pc-only\">/</span> <br class=\"mobile-only\"/>9월 5일(목) 10:00~17:40",
+                "장소 :  그랜드 하얏트 인천"
+            ]
+        },
+        "exhibition": {
+            "title": "UDC 전시",
+            "desc1": "",
+            "desc2": ""
+        },
+        "handson": {
+            "title": "UDC 핸즈온",
+            "desc1": "",
+            "desc2": ""
+        },
+        "hackerton": {
+            "title": "UDC 해커톤",
+            "desc1": "",
+            "desc2": ""
+        },
+        "freeLecture": {
+            "title": "블록체인 무료 강좌",
+            "desc1": "",
+            "desc2": ""
+        }
     }
 }

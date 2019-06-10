@@ -1,0 +1,72 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:300,400,500,700&subset=korean');
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:400,500,600,700&display=swap');
+
+/* [Default] */
+html { height:100%; }
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,pre,a,abbr,acronym,cite,code,del,dfn,em,img,ins,q,s,samp,strike,strong,sub,sup,u,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,embed { margin:0;padding:0;border:0;font-size:100%;font:inherit; }
+body { height:100%;background:#ffffff;color:#333333;font:normal 14px 'Noto Sans KR','AppleSDGothicNeo-Regular','Malgun Gothic','맑은 고딕','Dotum',sans-serif;letter-spacing:-0.05em; }
+a { color:#333333;text-decoration:none; } a:visited,a:active { text-decoration:none; } a:hover { text-decoration:underline; }
+img { border:0;vertical-align:top; }
+input,select { font-size:100%;vertical-align:middle;font-family:'AppleSDGothicNeo-Regular','Malgun Gothic','맑은 고딕','Dotum',sans-serif; }
+fieldset,blockquote,iframe { border:none; }
+ol,ul,li { list-style:none; }
+i,em,u,cite { font-style:normal; }
+strong { font-weight:bold; }
+h1,h2,h3,h4,h5 { clear:both;font-family:'AppleSDGothicNeo-Regular','Malgun Gothic','맑은 고딕','Dotum',sans-serif;font-weight:bold; }
+legend,caption { display:none;clear:both; }
+form { display:inline; }
+table { table-layout:fixed;border-collapse:collapse;border-spacing:0; }
+th,td { border-collapse:collapse; }
+
+/* =float 해제 */
+.f_clear:after {
+content:".";
+height:0;
+display:block;
+visibility:hidden;
+clear:both;
+}
+/* ie용 홀리 핵 시작 */
+* html .f_clear { height:1px; }
+.f_clear { display:block;min-height:1px; }
+/* ie용 홀리 핵 끝 */
+
+*:focus { outline: none; }
+
+.fl { float:left !important; }
+.fr { float:right !important; }
+.clr { clear:both; }
+.hidden { display:none;width:0;height:0;overflow:hidden;font-size:0; }
+.dimmed { position:fixed;top:0;width:100%;height:100%;background-color:#000000;opacity:0.6;z-index:999;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)"; }
+
+
+@font-face {
+ font-family: 'NanumSquare';
+ src: url(../webfont/NanumSquare/NanumSquareR.eot);
+ src: url(../webfont/NanumSquare/NanumSquareR.eot?#iefix) format('embedded-opentype'),
+      url(../webfont/NanumSquare/NanumSquareR.woff) format('woff'),
+      url(../webfont/NanumSquare/NanumSquareR.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'NanumSquare Light';
+ src: url(../webfont/NanumSquare/NanumSquareL.eot);
+ src: url(../webfont/NanumSquare/NanumSquareL.eot?#iefix) format('embedded-opentype'),
+      url(../webfont/NanumSquare/NanumSquareL.woff) format('woff'),
+      url(../webfont/NanumSquare/NanumSquareL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'NanumSquare ExtraBold';
+ src: url(../webfont/NanumSquare/NanumSquareEB.eot);
+ src: url(../webfont/NanumSquare/NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+      url(../webfont/NanumSquare/NanumSquareEB.woff) format('woff'),
+      url(../webfont/NanumSquare/NanumSquareEB.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'NanumSquareBold';
+ src: url(../webfont/NanumSquare/NanumSquareB.eot);
+ src: url(../webfont/NanumSquare/NanumSquareB.eot?#iefix) format('embedded-opentype'),
+      url(../webfont/NanumSquare/NanumSquareB.woff) format('woff'),
+      url(../webfont/NanumSquare/NanumSquareB.ttf) format('truetype');
+}

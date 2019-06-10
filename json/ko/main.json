@@ -26,7 +26,7 @@
         },
         "exhibition": {
             "title": "UDC <span class=\"ko\">전시</span>",
-            "desc1": "<div class=\"pc-only\">블록체인 프로젝트의 가치와 비전을 담은<br/>서비스들을 현장에서 직접 만나보실 수 있습니다.</div>",
+            "desc1": "<div class=\"pc-only\">블록체인 프로젝트의 가치와 비전을 담은<br/>서비스들을 현장에서 직접 만나보실 수 있습니다.</div><div class=\"mobile-only\">블록체인 프로젝트의 가치와 비전을 담은<br/>서비스들을 현장에서 직접 만나보실 수 있습니다.</div>",
             "desc2": [
                 "신청 기간 :  6월 10일(월) - 7월 12일(금)",
                 "전시 기간 :  9월 4일(수) 10:00 - 9월 5일(목) 18:00"
@@ -34,7 +34,7 @@
         },
         "handson": {
             "title": "UDC <span class=\"ko\">핸즈온</span>",
-            "desc1": "<div class=\"pc-only\">UDC 2019에서는 블록체인 서비스를 직접 체험하며<br/>이해할 수 있는 핸즈온 세션이 마련됩니다.</div>",
+            "desc1": "<div class=\"pc-only\">UDC 2019에서는 블록체인 서비스를 직접 체험하며<br/>이해할 수 있는 핸즈온 세션이 마련됩니다.</div><div class=\"mobile-only\">UDC 2019에서는 블록체인 서비스를 직접 체험하며<br/>이해할 수 있는 핸즈온 세션이 마련됩니다.</div>",
             "desc2": [
                 "<span>신청 기간 : </span> <span>8월 12일(월) - 8월 23일(금) (선착순 신청)</span>",
                 "<span>세션 기간 : </span> <span>9월 4일(수) 13:30~16:30 <br class=\"mobile-only\"/><span class=\"pc-only\">/</span> 9월 5일(목) 13:30~16:30</span>"
@@ -42,7 +42,7 @@
         },
         "hackerton": {
             "title": "<small>루니버스와 함께하는 </small> UDC <span class=\"ko\">해커톤</span>",
-            "desc1": "<div class=\"pc-only\">블록체인 서비스 플랫폼 루니버스를 활용하여<br/>블록체인 Dapp 개발에 도전하세요!</div>",
+            "desc1": "<div class=\"pc-only\">블록체인 서비스 플랫폼 루니버스를 활용하여<br/>블록체인 Dapp 개발에 도전하세요!</div><div class=\"mobile-only\">블록체인 서비스 플랫폼 루니버스를 활용하여<br/>블록체인 DApp 개발에 도전하세요!</div>",
             "desc2": [
                 "신청 기간 :  7월 1일(월) - 7월 21일(일)",
                 "결과 발표 :  8월 2일(금)",
@@ -52,7 +52,7 @@
         },
         "freeLecture": {
             "title": "<small>UDC 2019 개최 기념 </small> <span class=\"ko\">블록체인 무료 강좌</span>",
-            "desc1": "<div class=\"pc-only\">블록체인에 대한 궁금증을 해소할 수 있는<br/>일반인 대상 무료강좌가 열립니다.</div>",
+            "desc1": "<div class=\"pc-only\">블록체인에 대한 궁금증을 해소할 수 있는<br/>일반인 대상 무료강좌가 열립니다.</div><div class=\"mobile-only\">블록체인에 대한 궁금증을 해소할 수 있는<br/>일반인 대상 무료강좌가 열립니다.</div>",
             "desc2": [
                 "신청 기간 :  7월 22일(월) - 7월 31일(수)",
                 "강좌 장소 :  두나무 2층 업비트 라운지(강남역 1번 출구)",

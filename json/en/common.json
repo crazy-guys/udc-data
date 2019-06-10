@@ -41,7 +41,7 @@
     "newPassword": "New Password",
     "passwordPlaceholder": "Password (6~16 characters consisting of letters(A-Z,a-z)",
     "passwordConfirm": "Confirm Password",
-    "resetThePassword": "Reset the password",
+    "resetThePassword": "Reset the Password",
     "verificationCode": "Verification code",
     "verificationCodePlaceholder": "Enter verification code",
     "sendVerificationCode": "Send code",

@@ -23,7 +23,7 @@
                 "<span>기간 : </span> <span>9월 4일(수) 10:00~17:20 <span className=\"pc-only\">/</span> <br class=\"mobile-only\"/>9월 5일(목) 10:00~17:40</span>",
                 "<span>장소 : </span> <span>그랜드 하얏트 인천</span>"
             ],
-            "link": "/about/2019"
+            "link": "/program"
         },
         "exhibition": {
             "title": "UDC <span class=\"ko\">전시</span>",
@@ -65,5 +65,10 @@
             ],
             "link": "/special_event/free_lecture"
         }
+    },
+    "speaker": {
+        "opend": false,
+        "viewMore": "View More Speakers",
+        "notReady": "준비중입니다"
     }
 }

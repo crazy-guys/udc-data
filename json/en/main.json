@@ -23,7 +23,7 @@
                 "<span>Date & Time : </span> <span>Sep. 4 (Wed) 10:00~17:20<span className=\"pc-only\"> /</span> <br class=\"mobile-only\"/>Sep. 5 (Thu) 10:00~17:40</span>",
                 "<span>Venue : </span> <span>Grand Hyatt Incheon</span>"
             ],
-            "link": "/about/2019"
+            "link": "/program"
         },
         "exhibition": {
             "title": "UDC Exhibition",
@@ -66,5 +66,10 @@
             ],
             "link": "/special_event/free_lecture"
         }
+    },
+    "speaker": {
+        "opend": false,
+        "viewMore": "View More Speakers",
+        "notReady": "준비중입니다"
     }
 }

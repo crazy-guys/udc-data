@@ -45,7 +45,11 @@
                 "Date : Sep. 4 (Wed) / Sep. 5 (Thu)",
                 "Time : 13:30~16:30"
             ],
-            "link": "/special_event/hands_on"
+            "link": "/special_event/hands_on",
+            "imgDesc": [
+                "Only registered UDC 2019 attendees are <br class=\"mobile-only\">eligible to <br class=\"pc-only\">participate in the Hands-on program.",
+                "Registration is on a first-come, <br class=\"mobile-only\">first-serve basis."
+            ]
         },
         "hackerton": {
             "title": "UDC Hackathon <small class=\"bottom\">With Luniverse</small>",

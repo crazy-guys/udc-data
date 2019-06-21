@@ -44,7 +44,10 @@
                 "<span>신청 기간 : </span> <span>8월 12일(월) - 8월 23일(금) (선착순 신청)</span>",
                 "<span>세션 기간 : </span> <span>9월 4일(수) 13:30~16:30 <br class=\"mobile-only\"/><span class=\"pc-only\">/</span> 9월 5일(목) 13:30~16:30</span>"
             ],
-            "link": "/special_event/hands_on"
+            "link": "/special_event/hands_on",
+            "imgDesc": [
+                "UDC 2019 티켓을 구매하신 분들만 신청가능합니다."
+            ]
         },
         "hackerton": {
             "title": "<small><span class=\"ko\">루니버스와 함께하는</span> </small> UDC <span class=\"ko\">해커톤</span>",

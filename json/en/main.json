@@ -75,7 +75,7 @@
         }
     },
     "speaker": {
-        "opend": false,
+        "opend": true,
         "viewMore": "View More Speakers",
         "notReady": "준비중입니다"
     }

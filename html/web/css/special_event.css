@@ -170,8 +170,10 @@ section.page-sec.special-event .tab-content-body p.greyB { width:100%;margin-top
 section.page-sec.special-event .tab-content-body p cite { display:inline-block;padding-left:1.15em; }
 section.page-sec.special-event .tab-content-body p.greyB cite { display:inline-block;padding-left:0.6em; }
 section.page-sec.special-event .tab-content-body .dot { position:relative;padding-left:1.15em; }
-section.page-sec.special-event .tab-content-body .dot p:before { position:absolute;top:0;left:0;content:'※'; }
-section.page-sec.special-event .tab-content-body .dot p.mt0 { margin-top:0; }
+section.page-sec.special-event .tab-content-body .dot:before { position:absolute;top:0;left:0;content:'※'; }
+section.page-sec.special-event .tab-content-body .dot.mt0 { margin-top:0; }
+section.page-sec.special-event .tab-content-body .dot strong { font-weight:700; }
+section.page-sec.special-event .tab-content-body .dot strong.f20 { font-size:20px; }
 
 section.page-sec.special-event .grayB .dueB .info-list li p { margin-top:0; }
 section.page-sec.special-event .grayB .dueB .info-list li p:before { position:absolute;top:0;left:0;content:'※';color:#0367d9; }
@@ -286,7 +288,8 @@ section.page-sec.special-event .tab-content-body .img-wrap img:first-of-type { f
 section.page-sec.special-event .tab-content-body p { margin-top:15px;color:#666666;font-size:16px;line-height:1.9em; }
 section.page-sec.special-event .tab-content-body p.mt0 { margin-top:0; }
 section.page-sec.special-event .tab-content-body .dot { position:relative;padding-left:20px; }
-section.page-sec.special-event .tab-content-body .dot p:before { position:absolute;top:0;left:0;content:'※'; }
+section.page-sec.special-event .tab-content-body .dot:before { position:absolute;top:0;left:0;content:'※'; }
+section.page-sec.special-event .tab-content-body .dot strong.f20 { font-weight:700;font-size:20px; }
 section.page-sec.special-event .tab-content-body p.caution:lang(en) { margin-top:40px;color:#0367d9;font-size:18px;font-family:'Rajdhani'; }
 section.page-sec.special-event .tab-content-body p.caution em { display:block;padding-left:20px; }
 section.page-sec.special-event .tab-content-body p.sub { color:#999999; }

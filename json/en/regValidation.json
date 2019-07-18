@@ -12,9 +12,9 @@
     "phoneNumberVerificationRequired": "Phone Number Verification Required.",
     "passwordNotMatched": "The password does not match.",
     "invalidPasswordLength": "Passwords must be at least 10 characters.",
-    "invalidPasswordCombination": "Passwords must be a combination of numbers, uppers, lowers, and special characters",
-    "invalidPasswordEqualEmail": "Passwords must be diffrent from email",
-    "invalidPasswordContinuity": "Password must not be string of contiguous letters",
+    "invalidPasswordCombination": "Passwords must be a combination of numbers, uppers, lowers, and special characters.",
+    "invalidPasswordEqualEmail": "Passwords must be diffrent from email.",
+    "invalidPasswordContinuity": "Password must not be string of contiguous letters.",
     "invalidMinLength": "Minimum length is {{length}} characters.",
     "invalidMaxLength": "Maximum length is {{length}} characters."
 }

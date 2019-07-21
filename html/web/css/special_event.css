@@ -285,7 +285,7 @@ section.page-sec.special-event .tab-content-body .img-wrap.en-only:lang(en) { di
 section.page-sec.special-event .tab-content-body .img-wrap img { float:right;width:49%;object-fit:contain; }
 section.page-sec.special-event .tab-content-body .img-wrap img:first-of-type { float:left; }
 
-section.page-sec.special-event .tab-content-body p { margin-top:15px;color:#666666;font-size:16px;line-height:1.9em; }
+section.page-sec.special-event .tab-content-body p { margin-top:15px;color:#666666;font-size:16px;line-height:1.8em; }
 section.page-sec.special-event .tab-content-body p.mt0 { margin-top:0; }
 section.page-sec.special-event .tab-content-body .dot { position:relative;padding-left:20px; }
 section.page-sec.special-event .tab-content-body .dot:before { position:absolute;top:0;left:0;content:'※'; }

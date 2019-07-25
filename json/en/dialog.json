@@ -1,7 +1,7 @@
 {
   "loginFailed": {
     "title": "Failed to find registered ticket information.",
-    "message": "Please check your phone number. ",
+    "message": "Please check your phone number and password.<br/><p class=\"note\">*If you enter the password incorrectly over 5 times, Log in will be blocked.</p>",
     "link": {
       "title": "Forgot your Password?",
       "path": "/find_password"

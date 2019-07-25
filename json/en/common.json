@@ -39,7 +39,7 @@
     "name": "Name",
     "password": "Password",
     "newPassword": "New Password",
-    "passwordPlaceholder": "Password (6~16 characters consisting of letters(A-Z,a-z)",
+    "passwordPlaceholder": "Password (Over 12 characters combining of letters, numbers and special symbols)",
     "passwordConfirm": "Confirm Password",
     "resetThePassword": "Reset the Password",
     "verificationCode": "Verification code",

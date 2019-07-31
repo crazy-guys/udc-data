@@ -1,4 +1,7 @@
 {
+    "cover": {
+        "registrationButtonText": "‘Standard Tickets’ available 6.24 to 8.16"
+    },
     "whatIs": {
         "title": "<span>What is</span><p>UDC 2019</p>",
         "description": "The Upbit Developer Conference combines free exchange of<br/>ideas, numerous networking events, <br/>and programs for future blockchain game changers to<br/>present the ultimate developer-centric conference.<br/>We invite you to be a part of UDC 2019, the next big event<br/>for blockchain developers.<br/>Join us next September at Upbit Developer Conference<br/>2019 to celebrate blockchain technology and<br/>developers.",
@@ -14,5 +17,66 @@
         "companiesCount": "210",
         "sessions": "Sessions",
         "sessionsCount": "35"
+    },
+    "program": {
+        "conference": {
+            "title": "2019 Conference",
+            "desc1": "<div class=\"mobile-only\">Sessions focused on how world-class developers<br/>are using blockchain technology to create projects<br/>and services that solve real world problems.</div><div class=\"pc-only\">Sessions focused on how world-class developers are using<br/>blockchain technology to create projects and services that<br/>solve real world problems.</div>",
+            "desc2": [
+                "<span>Date & Time : </span> <span>Sep. 4 (Wed) 10:00~17:20<span className=\"pc-only\"> /</span> <br class=\"mobile-only\"/>Sep. 5 (Thu) 10:00~17:40</span>",
+                "<span>Venue : </span> <span>Grand Hyatt Incheon</span>"
+            ],
+            "link": "/program"
+        },
+        "exhibition": {
+            "title": "UDC Exhibition",
+            "desc1": "<div class=\"mobile-only\">UDC 2019’s Exhibition zone features a wide variety<br/>of services that showcase cutting-edge blockchain<br/>technology.</div><div class=\"pc-only\">UDC 2019’s Exhibition zone features a wide variety of services<br/>that showcase cutting-edge blockchain technology.</div>",
+            "desc2": [
+                "Application Period : Jun. 10 (Mon) - Jul. 12 (Fri)",
+                "Exhibition : Sep. 4 (Wed) 10:00 – 5 (Thu) 18:00"
+            ],
+            "link": "/special_event/exhibition"
+        },
+        "handson": {
+            "title": "UDC Hands-on",
+            "desc1": "<div class=\"mobile-only\">UDC 2019 provides hands-on opportunity to directly<br/>experience and understand blockchain services.</div><div class=\"pc-only\">UDC 2019 provides hands-on opportunity to directly<br/>experience and understand blockchain services.</div>",
+            "desc2": [
+                "Registration : Aug. 19 (Mon) – Aug. 28 (Wed)",
+                "Date : Sep. 4 (Wed) / Sep. 5 (Thu)",
+                "Time : 13:30~16:30"
+            ],
+            "link": "/special_event/hands_on",
+            "imgDesc": [
+                "Only registered UDC 2019 attendees are <br class=\"mobile-only\">eligible to <br class=\"pc-only\">participate in the Hands-on program.",
+                "Registration is on a first-come, <br class=\"mobile-only\">first-serve basis."
+            ]
+        },
+        "hackerton": {
+            "title": "UDC Hackathon <small class=\"bottom\">With Luniverse</small>",
+            "desc1": "<div class=\"mobile-only\">Utilize Luniverse, the best DApp development tool<br/>in the market, to create your own DApp.</div><div class=\"pc-only\">Utilize Luniverse, the best DApp development<br/>tool in the market, to create your own DApp.</div>",
+            "desc2": [
+                "Qualifying : Jul. 1 (Mon) – 21 (Sun)",
+                "Result Announcement : Aug. 2 (Fri)",
+                "Finals Prep : Aug. 21 (Wed), 14:00~17:00",
+                "Finals : Sep. 4 (Wed) 12:00 – Sep. 5 (Thu) 10:00"
+            ],
+            "link": "/special_event/hackaton"
+        },
+        "freeLecture": {
+            "title": "<small>UDC 2019 </small> Blockchain Free Lecture",
+            "desc1": "<div class=\"mobile-only\">UDC provides the Blockchain Open Lecture<br/>for those interested in the basics of blockchain.</div><div class=\"pc-only\">UDC provides the Blockchain Open Lecture<br/>for those interested in the basics of blockchain.</div>",
+            "desc2": [
+                "Registration : Jul. 22 (Mon) – 31 (Wed)",
+                "<span>Venue : </span> <span>Upbit Lounge at Dunamu HQ 2F<br/>(Gangnam Station, Exit 1)</span>",
+                "Date : Aug. 6 (Tue) / Aug. 13 (Tue) / Aug. 20 (Tue)",
+                "Time : 14:00~18:00"
+            ],
+            "link": "/special_event/free_lecture"
+        }
+    },
+    "speaker": {
+        "opened": true,
+        "viewMore": "View More Speakers",
+        "notReady": "Not ready"
     }
 }
